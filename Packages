@@ -1,18 +1,18 @@
-Package: com.zxc.frpc
+Package: com.natpacket.frpc
 Version: 0.48.0
 Architecture: iphoneos-arm
-Maintainer: zxc
+Maintainer: natpacket
 Installed-Size: 13084
 Conflicts: frpc
-Filename: ./debs/frpc_0.48.0.deb
-Size: 3509120
-MD5sum: 21270c026b3705cef76bb0df2dd41ec6
-SHA1: 5950af57fc14408bce96e045cf1a66fd3345f2d5
-SHA256: 715363543abde253c6db57fe8c0412871d0005dd8b3b46a3babb7cf4ad6e4222
+Filename: ./debs/frpc_0.48.0_natpacket.deb
+Size: 3508768
+MD5sum: 9a6386df4f4d8688a740ef8477e46033
+SHA1: 701ecb159c96818ae802d9112bbd5f907d6f7988
+SHA256: 0af7ff5b3e315c42ff626f731cf0cc90eeca325226b95ed51e6157eaf2d36ce4
 Section: Development
 Priority: optional
-Homepage: https://zhaoboy9692.github.io/repo
+Homepage: https://natpacket.github.io/repo
 Description: frp的client端,需要将frpc.ini放在/var目录下
-Author: zxc
+Author: natpacket
 Name: FRPC
 
