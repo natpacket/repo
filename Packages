@@ -1,0 +1,18 @@
+Package: com.zxc.frpc
+Version: 0.48.0
+Architecture: iphoneos-arm
+Maintainer: zxc
+Installed-Size: 13084
+Conflicts: frpc
+Filename: ./debs/frpc_0.48.0.deb
+Size: 3509120
+MD5sum: 21270c026b3705cef76bb0df2dd41ec6
+SHA1: 5950af57fc14408bce96e045cf1a66fd3345f2d5
+SHA256: 715363543abde253c6db57fe8c0412871d0005dd8b3b46a3babb7cf4ad6e4222
+Section: Development
+Priority: optional
+Homepage: https://zhaoboy9692.github.io/repo
+Description: frp的client端,需要将frpc.ini放在/var目录下
+Author: zxc
+Name: FRPC
+
