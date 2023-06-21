@@ -4,7 +4,7 @@ Architecture: iphoneos-arm
 Maintainer: natpacket
 Installed-Size: 13084
 Conflicts: frpc
-Filename: ./debs/frpc_0.48.0_natpacket.deb
+Filename: ./debs/frpc_0.48.0_natpacket_new.deb
 Size: 3508828
 MD5sum: 0b7af80d9f1488e3ed1ffa4e4a032ee5
 SHA1: e6d3d1041c684e8a2df9bf214a9175b0bdd45f81
