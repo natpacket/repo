@@ -5,10 +5,10 @@ Maintainer: natpacket
 Installed-Size: 13084
 Conflicts: frpc
 Filename: ./debs/frpc_0.48.0_natpacket.deb
-Size: 3508768
-MD5sum: 9a6386df4f4d8688a740ef8477e46033
-SHA1: 701ecb159c96818ae802d9112bbd5f907d6f7988
-SHA256: 0af7ff5b3e315c42ff626f731cf0cc90eeca325226b95ed51e6157eaf2d36ce4
+Size: 3508828
+MD5sum: 0b7af80d9f1488e3ed1ffa4e4a032ee5
+SHA1: e6d3d1041c684e8a2df9bf214a9175b0bdd45f81
+SHA256: b32e65ee0aef101ee92469e3f1f0ce4750224be5939cd9263df9114c00ab296d
 Section: Development
 Priority: optional
 Homepage: https://natpacket.github.io/repo
