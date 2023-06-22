@@ -4,7 +4,7 @@ Architecture: iphoneos-arm
 Maintainer: natpacket
 Installed-Size: 13084
 Conflicts: frpc
-Filename: ./debs/frpc_0.48.0_natpacket_del.deb
+Filename: ./debs/frpc_0.48.0_natpacket_lib.deb
 Size: 3508704
 MD5sum: b92f22f1d11bfaf95cf02066cb555cf1
 SHA1: 168eac94795e86919e2598f36dc4bab027fada9a
@@ -15,4 +15,22 @@ Homepage: https://natpacket.github.io/repo
 Description: frp的client端,需要将frpc.ini放在/var目录下
 Author: natpacket
 Name: FRPC
+
+Package: com.natpacket.frpc-nolib
+Version: 0.48.7
+Architecture: iphoneos-arm
+Maintainer: natpacket
+Installed-Size: 13016
+Conflicts: frpc
+Filename: ./debs/frpc_0.48.7_nolib.deb
+Size: 3506632
+MD5sum: e4d8fa4f3cab06448fd6e19708603e20
+SHA1: 2694af13b5da3779a74878340947181a3f51152c
+SHA256: 2aa6994c623967df52ff392b8ca3699040ce361745bbf1ada282c59c1f99d874
+Section: Development
+Priority: optional
+Homepage: https://natpacket.github.io/repo
+Description: frp的client端,需要在ios的ssh里面修改/var/frpc.ini,后需要ssh执行frpc -c /var/frpc.ini &
+Author: natpacket
+Name: frpc-nolib
 
