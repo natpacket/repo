@@ -50,3 +50,19 @@ Description: An awesome MobileSubstrate tweak!
 Author: natpacket
 Name: wechattweak
 
+Package: com.natpacket.wechattweak-rootless
+Version: 0.0.1-2+debug
+Architecture: iphoneos-arm64
+Maintainer: natpacket
+Installed-Size: 832
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.natpacket.wechattweak-rootless_0.0.1-2+debug_iphoneos-arm64.deb
+Size: 142484
+MD5sum: d8ceccfc800c26caa622c852db5dfc45
+SHA1: 75bad40f2fc478a609be7812d0a0720069c73cb2
+SHA256: 143e9b71f53a218f55e46907c7758baafa02233e8e3e6b0437a157635474da9d
+Section: Tweaks
+Description: 视频号websocket客户端rootless版本，基于SocketRocket!
+Author: natpacket
+Name: wechattweak-rootless
+
