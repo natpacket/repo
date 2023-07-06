@@ -66,3 +66,19 @@ Description: 视频号websocket客户端rootless版本，基于SocketRocket!
 Author: natpacket
 Name: wechattweak-rootless
 
+Package: com.yourcompany.tweaka8key
+Version: 0.0.1-29+debug
+Architecture: iphoneos-arm
+Maintainer: natpacket
+Installed-Size: 224
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.yourcompany.tweaka8key_0.0.1-29+debug_iphoneos-arm.deb
+Size: 14062
+MD5sum: 546f4582599c2e6786c5012da11cf606
+SHA1: 97f3fd7db93a4dd53a3f45ca7366595d5a15d899
+SHA256: e3d6e09597a34f18fc38bd6a25b33e0a5a9188532f12dba74e24498b563a437d
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: natpacket
+Name: tweaka8key
+
