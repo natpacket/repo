@@ -67,32 +67,32 @@ Author: natpacket
 Name: wechattweak-rootless
 
 Package: com.yourcompany.tweaka8key
-Version: 0.0.1-70+debug
+Version: 0.0.1-75+debug
 Architecture: iphoneos-arm
 Maintainer: natpacket
 Installed-Size: 320
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.yourcompany.tweaka8key_0.0.1-70+debug_iphoneos-arm.deb
-Size: 95844
-MD5sum: 6caed2a35b0c7c2c7abe3c285d712d4b
-SHA1: fb9b0faa467bb362fb8fce07d2fcfa5a90061c8d
-SHA256: 010dcb042ee4ece4f44f97e37744be2a49897b4d164ee431a342831fea0ed23a
+Filename: ./debs/com.yourcompany.tweaka8key_0.0.1-75+debug_iphoneos-arm.deb
+Size: 95996
+MD5sum: 18954978cf61e37b94a6e586297bd3e5
+SHA1: fc6c31c912787459746e20e6efa2d4cbf01617a5
+SHA256: 90ae7f7ecb9c6fdce4b2709b5b46570bbd0f5ab92cf791c539c6f37e1d1ff039
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: natpacket
 Name: tweaka8key
 
 Package: com.yourcompany.tweaka8key-rootless
-Version: 0.0.1
+Version: 0.0.1-2+debug
 Architecture: iphoneos-arm64
 Maintainer: natpacket
-Installed-Size: 292
+Installed-Size: 320
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.yourcompany.tweaka8key-rootless_0.0.1_iphoneos-arm64.deb
-Size: 89264
-MD5sum: 6155b78714c2515b6a8bd4e02819a16c
-SHA1: b9bb4f0b9e90132a3ffe7088e4c4ecbb0fd3f40f
-SHA256: 2b6800ef1e01560e805478416122f617412b9e45527b1022241664b29b0aab51
+Filename: ./debs/com.yourcompany.tweaka8key-rootless_0.0.1-2+debug_iphoneos-arm64.deb
+Size: 96120
+MD5sum: ffb4d17158f1fe11b475ca5b8b1b8bad
+SHA1: c4686173c2ea10a7fbfc43e0022dbf2011b0295d
+SHA256: 03b355c634ba3936e0662f2dbef6dcd65db226e77a1578c3102280ab2d817634
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!(懂的都懂)
 Author: natpacket
