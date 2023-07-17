@@ -130,6 +130,22 @@ Description: An awesome MobileSubstrate tweak!(懂的都懂，防回撤)
 Author: natpacket
 Name: tweaka8key
 
+Package: com.yourcompany.tweaka8key
+Version: 0.0.3-2
+Architecture: iphoneos-arm
+Maintainer: natpacket
+Installed-Size: 304
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.yourcompany.tweaka8key_0.0.3-2_iphoneos-arm.deb
+Size: 103894
+MD5sum: a43a9b26a9c7833bf2a2d3cead2de6f0
+SHA1: a122ee24bcf7abfca7ea7d60438687b8c639d604
+SHA256: 994231d8e1db76a99943bf54fccf00880daa736e08b9b179a2468165670d465d
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!(懂的都懂，防回撤)
+Author: natpacket
+Name: tweaka8key
+
 Package: com.yourcompany.tweaka8key-rootless
 Version: 0.0.2-1
 Architecture: iphoneos-arm64
