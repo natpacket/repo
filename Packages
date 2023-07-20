@@ -1,3 +1,18 @@
+Package: com.disableAweme.proxy
+Version: 0.1
+Architecture: iphoneos-arm
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/dy_catch.deb
+Size: 3370
+MD5sum: bf132c9429637fe21e1d5e2a92d7971e
+SHA1: 55e74e278cdde71671473fcb757605f4d1c7938f
+SHA256: 028462010a21d177a7358b38f68ffac5dbe132159fac2ef6791805f7991fd32f
+Section: System
+Priority: optional
+Description: 抖音新版本抓包插件
+Author: zxc
+Name: dypdis
+
 Package: com.natpacket.frpc
 Version: 0.48.0
 Architecture: iphoneos-arm
