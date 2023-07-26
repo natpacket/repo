@@ -49,6 +49,22 @@ Description: frp的client端,需要在ios的ssh里面修改/var/frpc.ini,后需�
 Author: natpacket
 Name: frpc-nolib
 
+Package: com.natpacket.hookfinder
+Version: 0.0.1-1
+Architecture: iphoneos-arm
+Maintainer: natpacket
+Installed-Size: 216
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.natpacket.hookfinder_0.0.1-1_iphoneos-arm.deb
+Size: 6300
+MD5sum: 3c20f0e15d40c450cbe8cc37eab31c4d
+SHA1: 7664d855c6babba72bf60f3c4e63125586cdc34a
+SHA256: 3343a1b0d876fc398dd959e6cf80bbc4f163cc7b88c48f1bde97475783c5234f
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: natpacket
+Name: hookfinder
+
 Package: com.natpacket.wechattweak
 Version: 0.0.2-1
 Architecture: iphoneos-arm
