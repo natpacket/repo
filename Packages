@@ -152,10 +152,10 @@ Maintainer: natpacket
 Installed-Size: 504
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.natpacket.wechattweak_0.0.7-1_iphoneos-arm.deb
-Size: 104450
-MD5sum: b742e259234b0975130ac7016128af46
-SHA1: c01649b85eea15723cf43551f5930fcea915e10c
-SHA256: 1dd3027ae6210b266ecd49f0c770570f26b46ab0b1375fd9f26abbd07f329038
+Size: 104476
+MD5sum: 83169dce29207e08e993577584791a28
+SHA1: ee2acf769cf918b51c3d6712aa106ff1837cb3c9
+SHA256: 0d507829083b6d593d889da051c81e6a0c3f3eb46322f566d4631fa88413e4de
 Section: Tweaks
 Description: 视频号websocket客户端rootless版本，基于SocketRocket!（强制重连，userpage、detail、getHotWordList、detailComment、code）,接口错误返回
 Author: natpacket
@@ -232,10 +232,10 @@ Maintainer: natpacket
 Installed-Size: 504
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.natpacket.wechattweak-rootless_0.0.7-1_iphoneos-arm64.deb
-Size: 104512
-MD5sum: c3f8ee9ebb0ba86b846de3adfb4d8e9e
-SHA1: e4d0b28ec0156729edd67527974191bfd5b397e6
-SHA256: dcb61826462605a5271c4f3a37a04089ad3a4d30156202f0855f075deb60903b
+Size: 104536
+MD5sum: cd04706a75ebbcf67560653140981857
+SHA1: abbe70c2804f94ca9fb84379f4bdf05182496149
+SHA256: 94925e6119e65d66688f525bf447d39e14201f868f1d4991b894113611a8f4b3
 Section: Tweaks
 Description: 视频号websocket客户端rootless版本，基于SocketRocket!（强制重连，userpage、detail、getHotWordList、detailComment,code）,接口错误返回
 Author: natpacket
