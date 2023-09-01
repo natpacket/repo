@@ -209,6 +209,22 @@ Description: 视频号websocket客户端rootless版本，基于SocketRocket!（�
 Author: natpacket
 Name: wechattweak
 
+Package: com.natpacket.wechattweak
+Version: 0.1.0-1
+Architecture: iphoneos-arm
+Maintainer: natpacket
+Installed-Size: 536
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.natpacket.wechattweak_0.1.0-1_iphoneos-arm.deb
+Size: 109772
+MD5sum: 6eb3946e89f61c7f3afce8b5e8d2c9eb
+SHA1: 8964f0efa6e59bc10b98421e0d86adcada853630
+SHA256: 7d65d51625e2493e4b82ef5d6ad9c8a22fa4ceec77fe90cec1c0cbc3fbd4cfa8
+Section: Tweaks
+Description: 视频号websocket客户端rootless版本，基于SocketRocket!（强制重连，userpage、detail、getHotWordList、detailComment、code、bizList、getShopShelf、a8key、getProduct）,接口错误返回
+Author: natpacket
+Name: wechattweak
+
 Package: com.natpacket.wechattweak-rootless
 Version: 0.0.10-1
 Architecture: iphoneos-arm64
@@ -334,6 +350,22 @@ SHA1: 6cdb9c8f185298a983f10fc43ea90a876d066bd9
 SHA256: e246d90ad685af2c8c411271b6b1e554c732d46f8507e145928bdd146a5c2b0c
 Section: Tweaks
 Description: 视频号websocket客户端rootless版本，基于SocketRocket!（强制重连，userpage、detail、getHotWordList、detailComment、code、bizList、getShopShelf）,接口错误返回
+Author: natpacket
+Name: wechattweak-rootless
+
+Package: com.natpacket.wechattweak-rootless
+Version: 0.1.0-1
+Architecture: iphoneos-arm64
+Maintainer: natpacket
+Installed-Size: 536
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.natpacket.wechattweak-rootless_0.1.0-1_iphoneos-arm64.deb
+Size: 109832
+MD5sum: 1f993a8c1f77189b6581db2aa24f5650
+SHA1: cabaf20cdc62d71e2227a0a2de450b2c6272933f
+SHA256: a9efdb98a7d6ecc9c310d8e9f2b308bb525adc210425aecf3ff5a36b18176dff
+Section: Tweaks
+Description: 视频号websocket客户端rootless版本，基于SocketRocket!（强制重连，userpage、detail、getHotWordList、detailComment、code、bizList、getShopShelf、a8key、getProduct）,接口错误返回
 Author: natpacket
 Name: wechattweak-rootless
 
