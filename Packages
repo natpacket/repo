@@ -472,10 +472,10 @@ Maintainer: natpacket
 Installed-Size: 320
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.yourcompany.tweaka8key_0.0.4-1_iphoneos-arm.deb
-Size: 106652
-MD5sum: 796e6f3f77a2feacd0fd79bab1b3dbf9
-SHA1: e91b813731e0f8ca2028c0b9c783b4b02f4c3d73
-SHA256: c965ec91ff0a737639b7ff0d34f54928cf9db3be43383279d64b4d842785ced2
+Size: 106444
+MD5sum: 3e7a58888809c0e2e97cd7c8a905a363
+SHA1: c0c3824038f9f7fe0f42ec796b3d4517e68593df
+SHA256: ef762d480a5a346593b208d35494ab8cda5c082b4d09218c07cdc1b65add6354
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!(懂的都懂，防回撤,fix bug)
 Author: natpacket
