@@ -513,3 +513,21 @@ Description: An awesome MobileSubstrate tweak!(懂的都懂，防回撤)
 Author: natpacket
 Name: tweaka8key-rootless
 
+Package: re.frida.server
+Version: 16.1.4
+Architecture: iphoneos-arm64
+Maintainer: Ole André Vadla Ravnås <oleavr@nowsecure.com>
+Installed-Size: 60104
+Conflicts: re.frida.server64
+Filename: ./debs/re.frida.server_16.1.4_iphoneos-arm64.deb
+Size: 17921044
+MD5sum: 21033ae5e6ce422be5c4b4b806bf9d0f
+SHA1: 2dae125619eb321f656ebdf1634de9e50c527785
+SHA256: 1452fc2ae81e17e8dd0b84bffafbcb6b9cfb045425c3df0db35a4958367af748
+Section: Development
+Priority: optional
+Homepage: https://frida.re/
+Description: Observe and reprogram running programs.
+Author: Frida Developers <oleavr@nowsecure.com>
+Name: Frida
+
