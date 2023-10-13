@@ -515,6 +515,24 @@ Name: tweaka8key-rootless
 
 Package: re.frida.server
 Version: 16.1.4
+Architecture: iphoneos-arm
+Maintainer: Ole André Vadla Ravnås <oleavr@nowsecure.com>
+Installed-Size: 60096
+Conflicts: re.frida.server64
+Filename: ./debs/re.frida.server_16.1.4_iphoneos-arm.deb
+Size: 17921232
+MD5sum: 109094ed89237b137022f6924173ea30
+SHA1: 8d08594bc51f074bfc2c394a74e3e40efa65f5d0
+SHA256: 8439e333f26bcc934b45d6756262492d5ce66891d594895bd45245a730938566
+Section: Development
+Priority: optional
+Homepage: https://frida.re/
+Description: Observe and reprogram running programs.
+Author: Frida Developers <oleavr@nowsecure.com>
+Name: Frida
+
+Package: re.frida.server
+Version: 16.1.4
 Architecture: iphoneos-arm64
 Maintainer: Ole André Vadla Ravnås <oleavr@nowsecure.com>
 Installed-Size: 60104
