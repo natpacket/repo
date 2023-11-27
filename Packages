@@ -257,6 +257,22 @@ Description: 视频号websocket客户端rootless版本，基于SocketRocket!（�
 Author: natpacket
 Name: wechattweak
 
+Package: com.natpacket.wechattweak
+Version: 0.1.3-1
+Architecture: iphoneos-arm
+Maintainer: natpacket
+Installed-Size: 572
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.natpacket.wechattweak_0.1.3-1_iphoneos-arm.deb
+Size: 119596
+MD5sum: afb41ebd56028f3e4aa68a7fac5155ce
+SHA1: 1a715e14fb401b3a79b0dc3ade5ed0c756e10d17
+SHA256: 3d67a6a8edd98425661066764582845caa35f5ec86ae968032c57f85e002d851
+Section: Tweaks
+Description: 视频号websocket客户端rootless版本，基于SocketRocket!（强制重连，userpage、detail、getHotWordList、detailComment、code、bizList、getShopShelf、a8key、getProduct、getFollower）,接口错误返回,防检测,添加锁屏后台运行
+Author: natpacket
+Name: wechattweak
+
 Package: com.natpacket.wechattweak-rootless
 Version: 0.0.10-1
 Architecture: iphoneos-arm64
@@ -476,6 +492,22 @@ Size: 106444
 MD5sum: 3e7a58888809c0e2e97cd7c8a905a363
 SHA1: c0c3824038f9f7fe0f42ec796b3d4517e68593df
 SHA256: ef762d480a5a346593b208d35494ab8cda5c082b4d09218c07cdc1b65add6354
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!(懂的都懂，防回撤,fix bug)
+Author: natpacket
+Name: tweaka8key
+
+Package: com.yourcompany.tweaka8key
+Version: 0.0.5-1
+Architecture: iphoneos-arm
+Maintainer: natpacket
+Installed-Size: 352
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.yourcompany.tweaka8key_0.0.5-1_iphoneos-arm.deb
+Size: 115374
+MD5sum: 11d5297e37390a0647a15375c93209f5
+SHA1: 7582f90c8d75cede6d400b66e2c035a5855af93a
+SHA256: a57b4d4f6c482209c4bce9e1a82fa90f17eaa325f23bd52999d44e64a49320ff
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!(懂的都懂，防回撤,fix bug)
 Author: natpacket
