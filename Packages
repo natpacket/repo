@@ -65,6 +65,22 @@ Description: An awesome MobileSubstrate tweak!
 Author: natpacket
 Name: hookfinder
 
+Package: com.natpacket.hookfinder-rootless
+Version: 0.0.1-1
+Architecture: iphoneos-arm64
+Maintainer: natpacket
+Installed-Size: 216
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.natpacket.hookfinder-rootless_0.0.1-1_iphoneos-arm64.deb
+Size: 6360
+MD5sum: 837fdbb120e9ae3a550f5c06fa26bb7b
+SHA1: b12df25ff6fe001f7a46bb6d2c171be348b7fb69
+SHA256: f04fe1f4dc0c89a706ebb7061daae0a3df2a0ba6fc12d55c1c8dad8c909532a9
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: natpacket
+Name: hookfinder-rootless
+
 Package: com.natpacket.wechattweak
 Version: 0.0.10-1
 Architecture: iphoneos-arm
