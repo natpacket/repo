@@ -337,6 +337,22 @@ Description: 视频号websocket客户端rootfull版本，基于SocketRocket!（�
 Author: natpacket
 Name: wechattweak
 
+Package: com.natpacket.wechattweak
+Version: 0.1.7-1
+Architecture: iphoneos-arm
+Maintainer: natpacket
+Installed-Size: 636
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.natpacket.wechattweak_0.1.7-1_iphoneos-arm.deb
+Size: 125212
+MD5sum: 77323420a66ce5651422f31a7dd3c0ed
+SHA1: 180966d6f350f597c077eee48d77ecdf6da9db3b
+SHA256: 5eb11b451cc6791e3c04de17223c583c04b1acb3ad33b305bc5d7f309114ab96
+Section: Tweaks
+Description: 视频号websocket客户端rootfull版本，基于SocketRocket!（强制重连，userpage、detail、getHotWordList、detailComment、code、bizList、getShopShelf、a8key、getProduct、getFollower、getFeedAsyncInfo、hook msg、findersearch）,接口错误返回,防检测,添加锁屏后台运行
+Author: natpacket
+Name: wechattweak
+
 Package: com.natpacket.wechattweak-rootless
 Version: 0.0.10-1
 Architecture: iphoneos-arm64
@@ -574,6 +590,22 @@ SHA1: ae92cb5aac743a84801b630f755ca11dbc9f9ebf
 SHA256: 3ed46d50e5ab8c995941dcc210cd32a52fc0b56d51a65d15d92890a78860aa61
 Section: Tweaks
 Description: 视频号websocket客户端rootless版本，基于SocketRocket!（强制重连，userpage、detail、getHotWordList、detailComment、code、bizList、getShopShelf、a8key、getProduct、getFollower、getFeedAsyncInfo、hook msg）,接口错误返回,防检测,添加锁屏后台运行
+Author: natpacket
+Name: wechattweak-rootless
+
+Package: com.natpacket.wechattweak-rootless
+Version: 0.1.7-1
+Architecture: iphoneos-arm64
+Maintainer: natpacket
+Installed-Size: 636
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.natpacket.wechattweak-rootless_0.1.7-1_iphoneos-arm64.deb
+Size: 125278
+MD5sum: a6515f2fb742beeaf8b3765f67db011f
+SHA1: 62f455801a855887c109b6e82b966b8e392dade7
+SHA256: fe9ef5afb533e3db38bfa6ed9d061a60936ea26b81db41b3a724a35035b7dfbc
+Section: Tweaks
+Description: 视频号websocket客户端rootless版本，基于SocketRocket!（强制重连，userpage、detail、getHotWordList、detailComment、code、bizList、getShopShelf、a8key、getProduct、getFollower、getFeedAsyncInfo、hook msg、findersearch）,接口错误返回,防检测,添加锁屏后台运行
 Author: natpacket
 Name: wechattweak-rootless
 
