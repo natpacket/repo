@@ -353,6 +353,22 @@ Description: 视频号websocket客户端rootfull版本，基于SocketRocket!（�
 Author: natpacket
 Name: wechattweak
 
+Package: com.natpacket.wechattweak
+Version: 0.1.9-1
+Architecture: iphoneos-arm
+Maintainer: natpacket
+Installed-Size: 652
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.natpacket.wechattweak_0.1.9-1_iphoneos-arm.deb
+Size: 128120
+MD5sum: 1b15042f657211cb4240879eab3d4c42
+SHA1: eb8a53d55e66d5057ac1b46acb122ebf9d2958be
+SHA256: b757cbfa937b59834ac97e39d34b58dd9fd6d8bcc171c941fa995dedd95155a8
+Section: Tweaks
+Description: 视频号websocket客户端rootfull版本，基于SocketRocket!（强制重连，userpage、detail、getHotWordList、detailComment、code、bizList、getShopShelf、a8key、getProduct、getFollower、getFeedAsyncInfo、hook msg、findersearch、finderGetTopicInfo、finderGetTopicList）,接口错误返回,防检测,添加锁屏后台运行
+Author: natpacket
+Name: wechattweak
+
 Package: com.natpacket.wechattweak-rootless
 Version: 0.0.10-1
 Architecture: iphoneos-arm64
