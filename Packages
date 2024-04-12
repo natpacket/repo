@@ -681,9 +681,9 @@ Installed-Size: 216
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.yourcompany.awemeinfo_0.0.1-1_iphoneos-arm.deb
 Size: 10972
-MD5sum: 4a8e384a388186ca7d3f1a0d4d2c5242
-SHA1: fa61879dabb2607d7a474e2c3b6a8bc1abc06854
-SHA256: e0b6c326c955d9bda5ee674d89e0281bf6f4a372487baa28c606ea8fbbf3d66c
+MD5sum: 1223f7b66749af70508f9bfb8481acfd
+SHA1: cdee1d970918102c8b61086835d50d0ef79cd580
+SHA256: d3b1b2fe843e18124bfae51252020c3fb689689f9e2c0cf34e527d4b92f9ea39
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: natpacket
@@ -696,10 +696,10 @@ Maintainer: natpacket
 Installed-Size: 216
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.yourcompany.awemeinfo-rootless_0.0.1-1_iphoneos-arm64.deb
-Size: 11044
-MD5sum: 0a12969bdd55eee9b4ce268df49d48f6
-SHA1: 5c9d98be2dc22883cbc1f8c78d6288291789990b
-SHA256: 2ebbcdb9e7847ad4f890c04c80af6d41998fbed34ad57b703418eeb107f24efc
+Size: 11046
+MD5sum: a0315cf3c90f8f5f28c6c6b13cc32fb6
+SHA1: 28bc415e405b6a24176c7104a64fd2f5a0f96513
+SHA256: ac52d53938ffbf09eeac280be6ed4e666d8ee98da87c6c38234d639a3b140a3b
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: natpacket
