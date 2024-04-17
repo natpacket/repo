@@ -373,13 +373,13 @@ Package: com.natpacket.wechattweak
 Version: 0.2.0-1
 Architecture: iphoneos-arm
 Maintainer: natpacket
-Installed-Size: 652
+Installed-Size: 684
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.natpacket.wechattweak_0.2.0-1_iphoneos-arm.deb
-Size: 129004
-MD5sum: e96696554a83290138debe1e1be6eb99
-SHA1: edd1e324ffea8f778aad07b4c065e43334d81320
-SHA256: 94bba9868ca5d49d7033e4f515ed513e1fd9da3932c13def7c55543e7204db4d
+Size: 129972
+MD5sum: ea11e8cb4a47d1679c00494dd5daa501
+SHA1: 6827a8f76ac70ba18c83d76e1c046b26462115a1
+SHA256: 3b278797ded0ef395494e4490e7acf09554b23851f9ebc04651ed08316256bf5
 Section: Tweaks
 Description: 视频号websocket客户端rootfull版本，基于SocketRocket!（强制重连，userpage、detail、getHotWordList、detailComment、code、bizList、getShopShelf、a8key、getProduct、getFollower、getFeedAsyncInfo、hook msg、findersearch、finderGetTopicInfo、finderGetTopicList、finderSearchAccount）,接口错误返回,防检测,添加锁屏后台运行
 Author: natpacket
@@ -661,13 +661,13 @@ Package: com.natpacket.wechattweak-rootless
 Version: 0.2.0-1
 Architecture: iphoneos-arm64
 Maintainer: natpacket
-Installed-Size: 652
+Installed-Size: 684
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.natpacket.wechattweak-rootless_0.2.0-1_iphoneos-arm64.deb
-Size: 129072
-MD5sum: 90ef418760931ecb25808ba773b1c066
-SHA1: 84f5d88d0a0180e7e5590ab66de8ec96eb91a8e1
-SHA256: 20e27527e99dae846e187287eaf300fa580e5c8fb695d923cfe32457c5109a5b
+Size: 130032
+MD5sum: 390a28f33cd19458bac426d80378db5f
+SHA1: 0b736a2db759bce37f892678497c786d7a021613
+SHA256: 02b3f007777efb66cd354bff807f9b3f7d62fcb3942cba1cdfe6fd2c5322b71f
 Section: Tweaks
 Description: 视频号websocket客户端rootless版本，基于SocketRocket!（强制重连，userpage、detail、getHotWordList、detailComment、code、bizList、getShopShelf、a8key、getProduct、getFollower、getFeedAsyncInfo、hook msg、findersearch、finderGetTopicInfo、finderGetTopicList、finderSearchAccount）,接口错误返回,防检测,添加锁屏后台运行
 Author: natpacket
