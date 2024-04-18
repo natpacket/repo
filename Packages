@@ -13,6 +13,38 @@ Description: 抖音新版本抓包插件
 Author: zxc
 Name: dypdis
 
+Package: com.natpacket.awemebypassproxy
+Version: 0.0.1-1
+Architecture: iphoneos-arm
+Maintainer: natpacket
+Installed-Size: 216
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.natpacket.awemebypassproxy_0.0.1-1_iphoneos-arm.deb
+Size: 4144
+MD5sum: de1f1632b1d764680b612101ac1fed89
+SHA1: 11a0945219b1a6a72ef3faf56bc39b206ffb2c79
+SHA256: 5ef074433adc7f0944d9914e3e895e0a67551c8058088771a9e1bb6adbd9bf96
+Section: Tweaks
+Description: 抖音抓包
+Author: natpacket
+Name: AwemeBypassProxy
+
+Package: com.natpacket.awemebypassproxy-rootless
+Version: 0.0.1-1
+Architecture: iphoneos-arm64
+Maintainer: natpacket
+Installed-Size: 216
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.natpacket.awemebypassproxy-rootless_0.0.1-1_iphoneos-arm64.deb
+Size: 4206
+MD5sum: 7d3de968accace550d573cd04bc180c2
+SHA1: 39f0c8d49c84e33d35ef514206a982b6b6f9423a
+SHA256: 7c1bbc9f4d735036de02bc82bee510a5b94b51ed80187843b6b7d575f63faea4
+Section: Tweaks
+Description: 抖音抓包
+Author: natpacket
+Name: AwemeBypassProxy-rootless
+
 Package: com.natpacket.frpc
 Version: 0.48.0
 Architecture: iphoneos-arm
