@@ -129,6 +129,22 @@ Description: 保证微信持续在前台运行
 Author: natpacket
 Name: KeepAlive
 
+Package: com.natpacket.keepalive-rootless
+Version: 0.0.1-1
+Architecture: iphoneos-arm64
+Maintainer: natpacket
+Installed-Size: 216
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.natpacket.keepalive-rootless_0.0.1-1_iphoneos-arm64.deb
+Size: 7124
+MD5sum: ce9d4ae797ace06e8aa52596596b26d9
+SHA1: ee2b66e3ed9a792f097cfddcf60604e4d41dbd55
+SHA256: f4d7ea3ca5157d2da8bbfee16b18fef4c61527239e7ea57702c95088cb1b6d5d
+Section: Tweaks
+Description: 保证微信持续在前台运行
+Author: natpacket
+Name: KeepAlive-rootless
+
 Package: com.natpacket.wechattweak
 Version: 0.0.10-1
 Architecture: iphoneos-arm
