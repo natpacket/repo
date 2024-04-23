@@ -113,6 +113,22 @@ Description: An awesome MobileSubstrate tweak!
 Author: natpacket
 Name: hookfinder-rootless
 
+Package: com.natpacket.keepalive
+Version: 0.0.1-1
+Architecture: iphoneos-arm
+Maintainer: natpacket
+Installed-Size: 216
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.natpacket.keepalive_0.0.1-1_iphoneos-arm.deb
+Size: 7060
+MD5sum: de1a310575e94e7b50ffeeebbbbd4a33
+SHA1: 049e860765fbb91dde711d970feb011b6b86bb39
+SHA256: 4cd257637a708604e9f23e5d2b56f3d6810e8864f1b56ef5cf3d40df4556cfec
+Section: Tweaks
+Description: 保证微信持续在前台运行
+Author: natpacket
+Name: KeepAlive
+
 Package: com.natpacket.wechattweak
 Version: 0.0.10-1
 Architecture: iphoneos-arm
