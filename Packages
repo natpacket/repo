@@ -449,6 +449,22 @@ Description: 视频号websocket客户端rootfull版本，基于SocketRocket!（�
 Author: natpacket
 Name: wechattweak
 
+Package: com.natpacket.wechattweak
+Version: 0.2.1-1
+Architecture: iphoneos-arm
+Maintainer: natpacket
+Installed-Size: 684
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.natpacket.wechattweak_0.2.1-1_iphoneos-arm.deb
+Size: 130854
+MD5sum: a74b656f2f9eccba8d877f35725d1f79
+SHA1: f03ee6c7f50fe615b051049fffaf1e08cbba6c6b
+SHA256: 33cf4889c560dcf9a5a25a37bd278fac057ab105a0a4c72057395346fcc382e1
+Section: Tweaks
+Description: 视频号websocket客户端rootfull版本，基于SocketRocket!（强制重连，userpage、detail、getHotWordList、detailComment、code、bizList、getShopShelf、a8key、getProduct、getFollower、getFeedAsyncInfo、hook msg、findersearch、finderGetTopicInfo、finderGetTopicList、finderSearchAccount、finderGetTopicListPlus）,接口错误返回,防检测,添加锁屏后台运行
+Author: natpacket
+Name: wechattweak
+
 Package: com.natpacket.wechattweak-rootless
 Version: 0.0.10-1
 Architecture: iphoneos-arm64
@@ -734,6 +750,22 @@ SHA1: 0b736a2db759bce37f892678497c786d7a021613
 SHA256: 02b3f007777efb66cd354bff807f9b3f7d62fcb3942cba1cdfe6fd2c5322b71f
 Section: Tweaks
 Description: 视频号websocket客户端rootless版本，基于SocketRocket!（强制重连，userpage、detail、getHotWordList、detailComment、code、bizList、getShopShelf、a8key、getProduct、getFollower、getFeedAsyncInfo、hook msg、findersearch、finderGetTopicInfo、finderGetTopicList、finderSearchAccount）,接口错误返回,防检测,添加锁屏后台运行
+Author: natpacket
+Name: wechattweak-rootless
+
+Package: com.natpacket.wechattweak-rootless
+Version: 0.2.1-1
+Architecture: iphoneos-arm64
+Maintainer: natpacket
+Installed-Size: 684
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.natpacket.wechattweak-rootless_0.2.1-1_iphoneos-arm64.deb
+Size: 130924
+MD5sum: cbad7a7c199d0c764e9ca6fe1de596d3
+SHA1: 072d9b9f5caa424aa05aaceac5d41b9a6955487e
+SHA256: dc3f0d4391b3a3c98f0ced781ce2e3f6dd5ab973ea8cff79c8237ec232ac4a2b
+Section: Tweaks
+Description: 视频号websocket客户端rootless版本，基于SocketRocket!（强制重连，userpage、detail、getHotWordList、detailComment、code、bizList、getShopShelf、a8key、getProduct、getFollower、getFeedAsyncInfo、hook msg、findersearch、finderGetTopicInfo、finderGetTopicList、finderSearchAccount、finderGetTopicListPlus）,接口错误返回,防检测,添加锁屏后台运行
 Author: natpacket
 Name: wechattweak-rootless
 
