@@ -898,35 +898,19 @@ Author: natpacket
 Name: tweaka8key-rootless
 
 Package: me.chichou.webinspect-global
-Version: 0.2.0
+Version: 0.2.1-1
 Architecture: iphoneos-arm
-Maintainer: codecolorist
+Maintainer: h4ck1n
 Installed-Size: 216
 Depends: mobilesubstrate
-Filename: ./debs/me.chichou.webinspect-global_0.2.0_iphoneos-arm.deb
-Size: 5562
-MD5sum: 92ef2cc42b0f2196fba03a4e1dec0425
-SHA1: 7c2aae8cdd1b2dd232331e159c5620ee8ae48f86
-SHA256: f82fd98138dba8b28e2209196a158b195464da34f5d72effe3245912f035a273
+Filename: ./debs/me.chichou.webinspect-global_0.2.1-1_iphoneos-arm.deb
+Size: 5454
+MD5sum: 58136b57e26c47667fbe89c0a864f1c9
+SHA1: ee23ff245890632b1efefc9c2fbb505d1a24d261
+SHA256: d0fa3270df239f7286349e8e5b2f659abcf89f2a2b6c72a4e0578bfe473f3395
 Section: Tweaks
 Description: Enable webview remote inspect for every app
-Author: codecolorist
-Name: webinspect
-
-Package: me.chichou.webinspect-global
-Version: 0.3.0-1+rootless
-Architecture: iphoneos-arm64
-Maintainer: codecolorist
-Installed-Size: 216
-Depends: mobilesubstrate
-Filename: ./debs/me.chichou.webinspect-global_0.3.0-1+rootless_iphoneos-arm64.deb
-Size: 5878
-MD5sum: 3f09b228743f494c55b8ea0f78e083d4
-SHA1: a3ad2598df6f924ff1150d90ff7020543b3e9a0f
-SHA256: b81eceb490dc7d5a8862e06dc95ec38e08d2dc12da4cac667bf0ff2d3d0479eb
-Section: Tweaks
-Description: Enable webview remote inspect for every app
-Author: codecolorist
+Author: h4ck1n, codecolorist
 Name: webinspect
 
 Package: re.frida.server
