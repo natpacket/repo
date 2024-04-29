@@ -913,6 +913,22 @@ Description: Enable webview remote inspect for every app
 Author: h4ck1n, codecolorist
 Name: webinspect
 
+Package: me.chichou.webinspect-global
+Version: 0.2.1-1+rootless
+Architecture: iphoneos-arm64
+Maintainer: h4ck1n
+Installed-Size: 216
+Depends: mobilesubstrate
+Filename: ./debs/me.chichou.webinspect-global_0.2.1-1+rootless_iphoneos-arm64.deb
+Size: 5510
+MD5sum: f2350e0823c010c29f4a2c008c53b8e8
+SHA1: bc71e92dc28c2a526b305284a12509513aca011e
+SHA256: 4199a4dd755eaadfdce50b3e2a1a395645e419bb3f1e35af1afbc46a731ba20c
+Section: Tweaks
+Description: Enable webview remote inspect for every app
+Author: h4ck1n, codecolorist
+Name: webinspect
+
 Package: re.frida.server
 Version: 16.1.4
 Architecture: iphoneos-arm
