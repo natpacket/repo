@@ -117,13 +117,13 @@ Package: com.natpacket.keepalive
 Version: 0.0.1-1+rootful
 Architecture: iphoneos-arm
 Maintainer: natpacket
-Installed-Size: 428
+Installed-Size: 216
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.natpacket.keepalive_0.0.1-1+rootful_iphoneos-arm.deb
-Size: 106608
-MD5sum: cc307790571b05786ee9eebc050839aa
-SHA1: b82186dafb006410ce8c16cfeeab9a9c5d5a8f7f
-SHA256: 46b00fb0ec23cde69db987920b9b3fc3c42bfc066ee9d2a43d9d41b8b63e96c0
+Size: 8264
+MD5sum: a3722c64bb6daf424b4deff62e4e4ff1
+SHA1: b8fb7771d82e15c22a3e922e5305ce755b200413
+SHA256: 804fb30f6403b021dd48cb330408066fc9df9d5761463e70a2c41799b50097df
 Section: Tweaks
 Description: 保证微信持续在前台运行
 Author: natpacket
@@ -133,13 +133,13 @@ Package: com.natpacket.keepalive
 Version: 0.0.1-2+rootless
 Architecture: iphoneos-arm64
 Maintainer: natpacket
-Installed-Size: 428
+Installed-Size: 216
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.natpacket.keepalive_0.0.1-2+rootless_iphoneos-arm64.deb
-Size: 106638
-MD5sum: 59379b3668db9a63127d4add7efed0bd
-SHA1: c356eaffc5dd68194e62f6a2ef1060cdf0bd3d81
-SHA256: 74edd6c11f9024486ae8964282f43c9fdabcb8580f612c491b9eb215574dc836
+Size: 8294
+MD5sum: 691f2d786d64e26a39813b6c8286524d
+SHA1: b05437782c87c8c97b0e122fe99ad1e0ef2a12ec
+SHA256: cac503c09b3fea6951a079b5f1ed988e10716817cde64f2ab461ad839d4dc3d2
 Section: Tweaks
 Description: 保证微信持续在前台运行
 Author: natpacket
