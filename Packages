@@ -14,36 +14,36 @@ Author: zxc
 Name: dypdis
 
 Package: com.natpacket.awemebypassproxy
-Version: 0.0.1-1
+Version: 0.0.1-1+rootful
 Architecture: iphoneos-arm
 Maintainer: natpacket
-Installed-Size: 216
+Installed-Size: 248
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.natpacket.awemebypassproxy_0.0.1-1_iphoneos-arm.deb
-Size: 4144
-MD5sum: de1f1632b1d764680b612101ac1fed89
-SHA1: 11a0945219b1a6a72ef3faf56bc39b206ffb2c79
-SHA256: 5ef074433adc7f0944d9914e3e895e0a67551c8058088771a9e1bb6adbd9bf96
+Filename: ./debs/com.natpacket.awemebypassproxy_0.0.1-1+rootful_iphoneos-arm.deb
+Size: 30970
+MD5sum: d09caac91a5909656334de2b65351a3e
+SHA1: f18c27e761ad8d1f09300dafffbf732f27bc366f
+SHA256: 5341f1bd3824e9585c69da8428cb837d5fad69a4c83db83311044c3f05e500b1
 Section: Tweaks
 Description: 抖音抓包
 Author: natpacket
 Name: AwemeBypassProxy
 
-Package: com.natpacket.awemebypassproxy-rootless
-Version: 0.0.1-1
+Package: com.natpacket.awemebypassproxy
+Version: 0.0.1-2+rootless
 Architecture: iphoneos-arm64
 Maintainer: natpacket
-Installed-Size: 216
+Installed-Size: 248
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.natpacket.awemebypassproxy-rootless_0.0.1-1_iphoneos-arm64.deb
-Size: 4206
-MD5sum: 7d3de968accace550d573cd04bc180c2
-SHA1: 39f0c8d49c84e33d35ef514206a982b6b6f9423a
-SHA256: 7c1bbc9f4d735036de02bc82bee510a5b94b51ed80187843b6b7d575f63faea4
+Filename: ./debs/com.natpacket.awemebypassproxy_0.0.1-2+rootless_iphoneos-arm64.deb
+Size: 31000
+MD5sum: fbb234b2e25ab665dba12bdb0b045f98
+SHA1: 331b36389277810acff4bd3fca6557850bc66f10
+SHA256: 9eaf25fc053c205b2e6d08b7dc58553b05b73f0fcf9aed62c6e2bdf93c0668b9
 Section: Tweaks
 Description: 抖音抓包
 Author: natpacket
-Name: AwemeBypassProxy-rootless
+Name: AwemeBypassProxy
 
 Package: com.natpacket.frpc
 Version: 0.48.0
@@ -82,68 +82,68 @@ Author: natpacket
 Name: frpc-nolib
 
 Package: com.natpacket.hookfinder
-Version: 0.0.1-1
+Version: 0.0.1-1+rootful
 Architecture: iphoneos-arm
 Maintainer: natpacket
-Installed-Size: 216
+Installed-Size: 264
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.natpacket.hookfinder_0.0.1-1_iphoneos-arm.deb
-Size: 6300
-MD5sum: 3c20f0e15d40c450cbe8cc37eab31c4d
-SHA1: 7664d855c6babba72bf60f3c4e63125586cdc34a
-SHA256: 3343a1b0d876fc398dd959e6cf80bbc4f163cc7b88c48f1bde97475783c5234f
+Filename: ./debs/com.natpacket.hookfinder_0.0.1-1+rootful_iphoneos-arm.deb
+Size: 45188
+MD5sum: e3f81b8b3c6998a108702987bef834d5
+SHA1: ceee08395b273fa9ceff2c45681e974fb02df671
+SHA256: 379fc62cfcf60e417807af7d64095f3051c357bed6b1cf4de370a0889ac9ce7f
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: natpacket
 Name: hookfinder
 
-Package: com.natpacket.hookfinder-rootless
-Version: 0.0.1-1
+Package: com.natpacket.hookfinder
+Version: 0.0.1-2+rootless
 Architecture: iphoneos-arm64
 Maintainer: natpacket
-Installed-Size: 216
+Installed-Size: 264
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.natpacket.hookfinder-rootless_0.0.1-1_iphoneos-arm64.deb
-Size: 6360
-MD5sum: 837fdbb120e9ae3a550f5c06fa26bb7b
-SHA1: b12df25ff6fe001f7a46bb6d2c171be348b7fb69
-SHA256: f04fe1f4dc0c89a706ebb7061daae0a3df2a0ba6fc12d55c1c8dad8c909532a9
+Filename: ./debs/com.natpacket.hookfinder_0.0.1-2+rootless_iphoneos-arm64.deb
+Size: 45224
+MD5sum: e8d224c5b1ee43a25fb14c352873e131
+SHA1: ee7f84768e4c3aabdb9f819ba0dbf9935dd0ca36
+SHA256: dcd3bc536725576fff8dd124e3653a6df1aa1efed5c8ea1684b271d0c8ed5022
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: natpacket
-Name: hookfinder-rootless
+Name: hookfinder
 
 Package: com.natpacket.keepalive
-Version: 0.0.1-1
+Version: 0.0.1-1+rootful
 Architecture: iphoneos-arm
 Maintainer: natpacket
-Installed-Size: 216
+Installed-Size: 428
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.natpacket.keepalive_0.0.1-1_iphoneos-arm.deb
-Size: 8258
-MD5sum: cf6c3028a2290c15b078e0f04237205b
-SHA1: 456bf43a7d0b7ff7b15f4801b89660eb7fd4aef4
-SHA256: 31f277f9db77566b9a8f08b987aa0930d0e8bee9dcfb8efdae248496e89b400f
+Filename: ./debs/com.natpacket.keepalive_0.0.1-1+rootful_iphoneos-arm.deb
+Size: 106608
+MD5sum: cc307790571b05786ee9eebc050839aa
+SHA1: b82186dafb006410ce8c16cfeeab9a9c5d5a8f7f
+SHA256: 46b00fb0ec23cde69db987920b9b3fc3c42bfc066ee9d2a43d9d41b8b63e96c0
 Section: Tweaks
 Description: 保证微信持续在前台运行
 Author: natpacket
 Name: KeepAlive
 
-Package: com.natpacket.keepalive-rootless
-Version: 0.0.1-1
+Package: com.natpacket.keepalive
+Version: 0.0.1-2+rootless
 Architecture: iphoneos-arm64
 Maintainer: natpacket
-Installed-Size: 216
+Installed-Size: 428
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.natpacket.keepalive-rootless_0.0.1-1_iphoneos-arm64.deb
-Size: 8320
-MD5sum: ab10f2c8eecd16346c483a71c5a9c4cb
-SHA1: d8693d0566cd3ffb3c1937b9900e84915c24ecd5
-SHA256: 880273aa3aa3ba2312b53dabec6b5036ea37fabe3766de8d0ef336e1d7580d4e
+Filename: ./debs/com.natpacket.keepalive_0.0.1-2+rootless_iphoneos-arm64.deb
+Size: 106638
+MD5sum: 59379b3668db9a63127d4add7efed0bd
+SHA1: c356eaffc5dd68194e62f6a2ef1060cdf0bd3d81
+SHA256: 74edd6c11f9024486ae8964282f43c9fdabcb8580f612c491b9eb215574dc836
 Section: Tweaks
 Description: 保证微信持续在前台运行
 Author: natpacket
-Name: KeepAlive-rootless
+Name: KeepAlive
 
 Package: com.natpacket.wechattweak
 Version: 0.2.2-1+rootful
@@ -178,132 +178,68 @@ Author: natpacket
 Name: wechattweak
 
 Package: com.yourcompany.awemeinfo
-Version: 0.0.1-1
+Version: 0.0.1-1+rootful
 Architecture: iphoneos-arm
 Maintainer: natpacket
-Installed-Size: 216
+Installed-Size: 524
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.yourcompany.awemeinfo_0.0.1-1_iphoneos-arm.deb
-Size: 11096
-MD5sum: 08b6373febe17674567d0a46ee942e95
-SHA1: 5fe14dbb4f50a5c80c39ca403ef92b6a1f9ac880
-SHA256: f0887718dabb682b998e168b057c945e0f6ef4349de025922caf6494e6647860
+Filename: ./debs/com.yourcompany.awemeinfo_0.0.1-1+rootful_iphoneos-arm.deb
+Size: 142164
+MD5sum: 24f924595ef948f4ae881a2db186bf51
+SHA1: aed5c9763ae8d45330ce997ed0cd3353a6a88315
+SHA256: 6e5164065b2d6221a6c224a9c78492513ad62910c2638350578e16c44e2c2ceb
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: natpacket
 Name: AwemeInfo
 
-Package: com.yourcompany.awemeinfo-rootless
-Version: 0.0.1-1
+Package: com.yourcompany.awemeinfo
+Version: 0.0.1-2+rootless
 Architecture: iphoneos-arm64
 Maintainer: natpacket
-Installed-Size: 216
+Installed-Size: 524
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.yourcompany.awemeinfo-rootless_0.0.1-1_iphoneos-arm64.deb
-Size: 11168
-MD5sum: 878566b150c22dd1dbda7e0f82079b35
-SHA1: 9d305f3dd9ae6a1fe09ce7b2fe2b281ad318e353
-SHA256: a72ce97e414380bd9c67f6f6a5b9cc519b74224c4c8942bfef5553f2df855bd4
+Filename: ./debs/com.yourcompany.awemeinfo_0.0.1-2+rootless_iphoneos-arm64.deb
+Size: 142186
+MD5sum: 0ddb926ce0ed8ef445e3f433feab2f45
+SHA1: af2ecb18ac8e0ce87d391a6fc437189d6d620a45
+SHA256: 06d024d5c7d1dc80640692a40a939c4b8022ee75f8f18c40b62f56e427f4118f
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: natpacket
-Name: AwemeInfo-rootless
+Name: AwemeInfo
 
 Package: com.yourcompany.tweaka8key
-Version: 0.0.2-1
-Architecture: iphoneos-arm
+Version: 0.0.5-1+rootless
+Architecture: iphoneos-arm64
 Maintainer: natpacket
-Installed-Size: 304
+Installed-Size: 1928
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.yourcompany.tweaka8key_0.0.2-1_iphoneos-arm.deb
-Size: 102914
-MD5sum: 66ee10307af9bf88fc974e5ae4d2c48a
-SHA1: b88e56807271af5b5b7cd5fe41e0e3c7fd1bc61e
-SHA256: a676fd4c84049a525cd66234d0c1dffa2f5a58cdbd082ce28212e17ce0b1d223
-Section: Tweaks
-Description: An awesome MobileSubstrate tweak!(懂的都懂)
-Author: natpacket
-Name: tweaka8key
-
-Package: com.yourcompany.tweaka8key
-Version: 0.0.3-1
-Architecture: iphoneos-arm
-Maintainer: natpacket
-Installed-Size: 320
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.yourcompany.tweaka8key_0.0.3-1_iphoneos-arm.deb
-Size: 106518
-MD5sum: e61b5b89a3953b9804d77153fdece026
-SHA1: a86f2b4d3f0f20f0606868471f540121304132b9
-SHA256: 1a90417960142a2558a7f1e9d59dcc448c76d0cdc2122abc07fe6ca7cc83cee5
-Section: Tweaks
-Description: An awesome MobileSubstrate tweak!(懂的都懂，防回撤)
-Author: natpacket
-Name: tweaka8key
-
-Package: com.yourcompany.tweaka8key
-Version: 0.0.4-1
-Architecture: iphoneos-arm
-Maintainer: natpacket
-Installed-Size: 320
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.yourcompany.tweaka8key_0.0.4-1_iphoneos-arm.deb
-Size: 106444
-MD5sum: 3e7a58888809c0e2e97cd7c8a905a363
-SHA1: c0c3824038f9f7fe0f42ec796b3d4517e68593df
-SHA256: ef762d480a5a346593b208d35494ab8cda5c082b4d09218c07cdc1b65add6354
+Filename: ./debs/com.yourcompany.tweaka8key_0.0.5-1+rootless_iphoneos-arm64.deb
+Size: 698344
+MD5sum: 2621dae47d4787bfb0d0398cf3aff6ab
+SHA1: 131f462fa5da4e602da15e2eed8b8fd37082f5d5
+SHA256: 8ed333247d6bb9400c39b9127f2caec3081197c04574f1478f2353b3e9a3c651
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!(懂的都懂，防回撤,fix bug)
 Author: natpacket
 Name: tweaka8key
 
 Package: com.yourcompany.tweaka8key
-Version: 0.0.5-1
+Version: 0.0.5-2+rootful
 Architecture: iphoneos-arm
 Maintainer: natpacket
-Installed-Size: 352
+Installed-Size: 1928
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.yourcompany.tweaka8key_0.0.5-1_iphoneos-arm.deb
-Size: 115374
-MD5sum: 11d5297e37390a0647a15375c93209f5
-SHA1: 7582f90c8d75cede6d400b66e2c035a5855af93a
-SHA256: a57b4d4f6c482209c4bce9e1a82fa90f17eaa325f23bd52999d44e64a49320ff
+Filename: ./debs/com.yourcompany.tweaka8key_0.0.5-2+rootful_iphoneos-arm.deb
+Size: 698318
+MD5sum: 02841d3f668bfdc6588534e26d7133e8
+SHA1: caa39ebf9393047732084916df8353cba33745c5
+SHA256: 65aadc7afd8dc1c2d57b533d4591a481f7456df6f850f3abbabb0b32632fefa1
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!(懂的都懂，防回撤,fix bug)
 Author: natpacket
 Name: tweaka8key
-
-Package: com.yourcompany.tweaka8key-rootless
-Version: 0.0.2-1
-Architecture: iphoneos-arm64
-Maintainer: natpacket
-Installed-Size: 292
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.yourcompany.tweaka8key-rootless_0.0.2-1_iphoneos-arm64.deb
-Size: 91694
-MD5sum: 9a8fde6b472f8ec016d3d8960c293282
-SHA1: cfa367f4bd016bf000f271ef521fd4fa79feb6df
-SHA256: 3b058d1e34774cca021884128bdd87e8504ca987ee2bf9639a5fe8362680d734
-Section: Tweaks
-Description: An awesome MobileSubstrate tweak!(懂的都懂)
-Author: natpacket
-Name: tweaka8key-rootless
-
-Package: com.yourcompany.tweaka8key-rootless
-Version: 0.0.3-1
-Architecture: iphoneos-arm64
-Maintainer: natpacket
-Installed-Size: 320
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.yourcompany.tweaka8key-rootless_0.0.3-1_iphoneos-arm64.deb
-Size: 106578
-MD5sum: 1a4cc070c7ad7d9b11ace2e69e5255a8
-SHA1: a38871b7fcadc77224d425191b06c3621bfc51b4
-SHA256: 287fad8e637823f6ab60458ced38455e5f356d3141db2a62adb7c3e766e01513
-Section: Tweaks
-Description: An awesome MobileSubstrate tweak!(懂的都懂，防回撤)
-Author: natpacket
-Name: tweaka8key-rootless
 
 Package: me.chichou.webinspect-global
 Version: 0.2.1-1
