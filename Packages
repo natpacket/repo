@@ -49,13 +49,13 @@ Package: com.natpacket.dyrpc
 Version: 0.0.1-1+rootful
 Architecture: iphoneos-arm
 Maintainer: natpacket
-Installed-Size: 7112
+Installed-Size: 7192
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.natpacket.dyrpc_0.0.1-1+rootful_iphoneos-arm.deb
-Size: 2573384
-MD5sum: 6da75e39b7301d9ead30280660e02391
-SHA1: 0ebd2ecae287668c5fc3b1bf396cbabcbc8a0000
-SHA256: ec7a41d42479ea9045324da76f0f4625a7729534ef8aa6c2986dc10e1b1171c5
+Size: 2609920
+MD5sum: c833d2a1c08c51c55db0965e1cb9d3b1
+SHA1: 2479e146e93771ed68e07770015cb55b6c79bae1
+SHA256: 3fc6da385f2e93a4e62543bf5cc2568b6bcb1b74509314c4e0548d690b58a8ed
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: natpacket
