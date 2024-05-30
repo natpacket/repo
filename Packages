@@ -77,6 +77,22 @@ Description: getGoodsDetail、getProductDetail
 Author: natpacket
 Name: dyrpc
 
+Package: com.natpacket.dyrpc
+Version: 0.0.2-2+rootless
+Architecture: iphoneos-arm64
+Maintainer: natpacket
+Installed-Size: 7176
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.natpacket.dyrpc_0.0.2-2+rootless_iphoneos-arm64.deb
+Size: 2619804
+MD5sum: 8fb2bb3c13a20c4e0c6aa3dccfb1ad60
+SHA1: 83660ece6f775b576425898f456eef711ec96563
+SHA256: 2f54ff19e9b6642217afbeb8ff5eeeb344ae3801fc6dcf4e8d20908e7b1d38ba
+Section: Tweaks
+Description: getGoodsDetail、getProductDetail
+Author: natpacket
+Name: dyrpc
+
 Package: com.natpacket.frpc
 Version: 0.48.0
 Architecture: iphoneos-arm
