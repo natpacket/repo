@@ -65,13 +65,13 @@ Package: com.natpacket.dyrpc
 Version: 0.0.2-1+rootful
 Architecture: iphoneos-arm
 Maintainer: natpacket
-Installed-Size: 7288
+Installed-Size: 7192
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.natpacket.dyrpc_0.0.2-1+rootful_iphoneos-arm.deb
-Size: 2655316
-MD5sum: c8a1eddf6abeaed5345d727a45366173
-SHA1: a87198c9d2dc4b32c92096f8f580a223f802e27a
-SHA256: 0690490c43a466ae251b9f8333fd42cd7832620655889423520cf3df81d9174c
+Size: 2619610
+MD5sum: 49e9b9229a0eb732f080e64709b5ec58
+SHA1: 058379747fdb57d19a10733435f463d54fc5c91f
+SHA256: c8ee719104f5533c30ae5099008d8b74cf92d7c6234603345355a61af80eda2f
 Section: Tweaks
 Description: getGoodsDetail、getProductDetail
 Author: natpacket
