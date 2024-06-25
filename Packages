@@ -373,13 +373,13 @@ Package: com.natpacket.wechattweak
 Version: 0.2.6-1+rootful
 Architecture: iphoneos-arm
 Maintainer: natpacket
-Installed-Size: 10860
+Installed-Size: 10716
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.natpacket.wechattweak_0.2.6-1+rootful_iphoneos-arm.deb
-Size: 4071572
-MD5sum: f5907f9487ad3e0bac714a9cdc65e184
-SHA1: 05a80060eca3b12319875046055447f0396a5e2b
-SHA256: 8932492ba0a04219cba08b7f067f795467ffecada49926f47a586b1ee0d132e1
+Size: 3994654
+MD5sum: 91b6815c1c510e09df4e729ab3a54c1d
+SHA1: 440b1d38a15032b6c2e125210616819108742291
+SHA256: 04e9d118fa2afc51834764c8d1af589fcd00f5ee15d7c9304b8a4ae1f48d9841
 Section: Tweaks
 Description: 视频号websocket客户端，基于SocketRocket!（强制重连，userpage、detail、getHotWordList、detailComment、code、bizList、getShopShelf、a8key、getProduct、getFollower、getFeedAsyncInfo、hook msg、findersearch、finderGetTopicInfo、finderGetTopicList、finderSearchAccount、finderGetTopicListPlus）,接口错误返回,防检测,添加锁屏后台运行.软件已混淆
 Author: natpacket
