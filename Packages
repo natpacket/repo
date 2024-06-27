@@ -97,29 +97,29 @@ Package: com.natpacket.dyrpc
 Version: 0.0.3-1+rootful
 Architecture: iphoneos-arm
 Maintainer: natpacket
-Installed-Size: 7304
+Installed-Size: 7256
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.natpacket.dyrpc_0.0.3-1+rootful_iphoneos-arm.deb
-Size: 2667554
-MD5sum: a5e18a2dd3130bc8090a5b34642decf1
-SHA1: fa836a44284ac99a5353954b8c5d8cba7bad3ddd
-SHA256: e632eac637aa0e8478e0af461bed4bb62650084734803a619b05a2f0de7c56ab
+Size: 2658730
+MD5sum: 6132c47c560e5ce717ad9d5a8478331d
+SHA1: 2bd24cb1f8e33d60f5998c6fd6f529e641a32c37
+SHA256: c8418f67ddbb9eb645876dfcb104536c67a3f5cbe30a67df0079a645a01a54e0
 Section: Tweaks
 Description: getGoodsDetail、getProductDetail
 Author: natpacket
 Name: dyrpc
 
 Package: com.natpacket.dyrpc
-Version: 0.0.3-3+rootless
+Version: 0.0.3-1+rootless
 Architecture: iphoneos-arm64
 Maintainer: natpacket
-Installed-Size: 7224
+Installed-Size: 7256
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.natpacket.dyrpc_0.0.3-3+rootless_iphoneos-arm64.deb
-Size: 2636292
-MD5sum: 8ab03062eca590701bbcfc67cf6af096
-SHA1: 9b130c6f93f87d6bebcd1f93f049118ee34bf147
-SHA256: 03eafbe56091ad9548bed4e551055d9fa318eca1510ffff0aa9ea4f64515a08c
+Filename: ./debs/com.natpacket.dyrpc_0.0.3-1+rootless_iphoneos-arm64.deb
+Size: 2649682
+MD5sum: 8038a86ae72befce0669aa6f4dbd78f7
+SHA1: 5b42873fd2a23a75d27a0ff93c74ca80f2b476da
+SHA256: 7290d62efbdd459d5386dbbb3defd14b5dafdc83f3e8c5f23d7dc4d24b2b5b66
 Section: Tweaks
 Description: getGoodsDetail、getProductDetail
 Author: natpacket
