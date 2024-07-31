@@ -290,6 +290,22 @@ Author: natpacket
 Name: KeepAlive
 
 Package: com.natpacket.ksdid
+Version: 0.0.1-1+rootful
+Architecture: iphoneos-arm
+Maintainer: natpacket
+Installed-Size: 344
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.natpacket.ksdid_0.0.1-1+rootful_iphoneos-arm.deb
+Size: 76210
+MD5sum: 5c8f9029d940b1f07ec26378e72dc0a9
+SHA1: e4a369f4e5570c87dbb9c79e600b56cddb4d2011
+SHA256: cda9180a47cdfbd41dc21ea1fb4fc636dd307fc2438c0c2aa0d73baeaa806420
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: natpacket
+Name: ksdid
+
+Package: com.natpacket.ksdid
 Version: 0.0.1-1+rootless
 Architecture: iphoneos-arm64
 Maintainer: natpacket
