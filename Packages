@@ -293,13 +293,13 @@ Package: com.natpacket.ksdid
 Version: 0.0.1-1+rootless
 Architecture: iphoneos-arm64
 Maintainer: natpacket
-Installed-Size: 344
+Installed-Size: 328
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.natpacket.ksdid_0.0.1-1+rootless_iphoneos-arm64.deb
-Size: 77576
-MD5sum: 167d9f5641b705b1a0494c69a1525f9c
-SHA1: c64a06c029fb512d4fd7785e318561d6e765dbd4
-SHA256: adfe364b8349b8fa30d4968da0c868ff06470a3c23091b6a736cb045b9d0c527
+Size: 72054
+MD5sum: 34fa680bda2c3306d1f20075af94a464
+SHA1: 259e2fad54dc2f8093495e08c89e0f7ddc42655a
+SHA256: 0cb59c3b1fea119c18ad694dc53b3cc04f25d79ea29d8fd746d4397deb593efc
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: natpacket
