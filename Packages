@@ -1,3 +1,19 @@
+Package: c.natpacket.ksdid
+Version: 0.0.1-1+rootless
+Architecture: iphoneos-arm64
+Maintainer: natpacket
+Installed-Size: 312
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/c.natpacket.ksdid_0.0.1-1+rootless_iphoneos-arm64.deb
+Size: 69356
+MD5sum: a16b648d3572363259f0a761610a8fed
+SHA1: 3bab9e156fd870dd8481960229cc64b8aaec44cf
+SHA256: 513a32e0a2eb3f562a39e288029eb630a7c1da559cea97e341a9a85ac3c3c44e
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: natpacket
+Name: ksdid
+
 Package: com.disableAweme.proxy
 Version: 0.1
 Architecture: iphoneos-arm
