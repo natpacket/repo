@@ -529,6 +529,22 @@ Description: An awesome MobileSubstrate tweak!
 Author: natpacket
 Name: AwemeInfo
 
+Package: com.yourcompany.ksdemo
+Version: 0.0.1-15+rootful
+Architecture: iphoneos-arm
+Maintainer: 黑子
+Installed-Size: 284
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.gif.userinfo.deb
+Size: 8504
+MD5sum: 4d6fb99f850cf50ab7998bad52ba3e71
+SHA1: 7cba1f1bf537a49d1f0e1f073956f83d7060ffb1
+SHA256: c4bf104b6c7c1019611644e06e50cbd3f61e7e82fc5cb4dfeaa3690ef36e1baa
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: 黑子
+Name: ksDemo
+
 Package: com.yourcompany.tweaka8key
 Version: 0.0.5-1+rootless
 Architecture: iphoneos-arm64
