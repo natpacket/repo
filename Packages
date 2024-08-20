@@ -13,38 +13,6 @@ Description: 抖音新版本抓包插件
 Author: zxc
 Name: dypdis
 
-Package: com.gif.ksdemo
-Version: 0.0.1-1+rootless
-Architecture: iphoneos-arm64
-Maintainer: susan
-Installed-Size: 284
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.gif.ksdemo_0.0.1-1+rootless_iphoneos-arm64.deb
-Size: 8598
-MD5sum: 8c7b65472f30dd75713ad58dc54b9d81
-SHA1: ff40a1acdf18d87341e9abe469cd24e604080568
-SHA256: 0f31be4d33b10216e5cddd35305c63bb9db5df06d387ce76b1e09252be393fb3
-Section: Tweaks
-Description: An awesome MobileSubstrate tweak!
-Author: susan
-Name: ksDemo
-
-Package: com.gif.ksdemo
-Version: 0.0.1-3+rootful
-Architecture: iphoneos-arm
-Maintainer: susan
-Installed-Size: 284
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.gif.ksdemo_0.0.1-3+rootful_iphoneos-arm.deb
-Size: 8494
-MD5sum: 0c772c849ca09d25ee94d81b577ecf97
-SHA1: 15d6067148ba84d41a7cbb93d04079702c31f1a4
-SHA256: 8afc56f3d8a4ccc1f3ee388016ea6fbe6b4837ac1128d7b22c3f7aaa13f30bf3
-Section: Tweaks
-Description: An awesome MobileSubstrate tweak!
-Author: susan
-Name: ksDemo
-
 Package: com.natpacket.awemebypassproxy
 Version: 0.0.1-1+rootful
 Architecture: iphoneos-arm
@@ -560,22 +528,6 @@ Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: natpacket
 Name: AwemeInfo
-
-Package: com.yourcompany.ksdemo
-Version: 0.0.1-15+rootful
-Architecture: iphoneos-arm
-Maintainer: 黑子
-Installed-Size: 284
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.gif.userinfo.deb
-Size: 8504
-MD5sum: 4d6fb99f850cf50ab7998bad52ba3e71
-SHA1: 7cba1f1bf537a49d1f0e1f073956f83d7060ffb1
-SHA256: c4bf104b6c7c1019611644e06e50cbd3f61e7e82fc5cb4dfeaa3690ef36e1baa
-Section: Tweaks
-Description: An awesome MobileSubstrate tweak!
-Author: 黑子
-Name: ksDemo
 
 Package: com.yourcompany.tweaka8key
 Version: 0.0.5-1+rootless
