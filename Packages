@@ -29,6 +29,22 @@ Description: An awesome MobileSubstrate tweak!
 Author: susan
 Name: ksDemo
 
+Package: com.gif.ksdemo
+Version: 0.0.1-3+rootful
+Architecture: iphoneos-arm
+Maintainer: susan
+Installed-Size: 284
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.gif.ksdemo_0.0.1-3+rootful_iphoneos-arm.deb
+Size: 8494
+MD5sum: 0c772c849ca09d25ee94d81b577ecf97
+SHA1: 15d6067148ba84d41a7cbb93d04079702c31f1a4
+SHA256: 8afc56f3d8a4ccc1f3ee388016ea6fbe6b4837ac1128d7b22c3f7aaa13f30bf3
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: susan
+Name: ksDemo
+
 Package: com.natpacket.awemebypassproxy
 Version: 0.0.1-1+rootful
 Architecture: iphoneos-arm
