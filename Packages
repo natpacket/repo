@@ -647,3 +647,21 @@ Description: Observe and reprogram running programs.
 Author: Frida Developers <oleavr@nowsecure.com>
 Name: Frida
 
+Package: re.frida.server.repack
+Version: 14.2.18
+Architecture: iphoneos-arm
+Maintainer: Ole André Vadla Ravnås <oleavr@nowsecure.com>
+Installed-Size: 49764
+Conflicts: re.frida.server64
+Filename: ./debs/frida_14.2.18_iphoneos-arm_repack.deb
+Size: 12747004
+MD5sum: e266a7bdad922908df444e9896b35612
+SHA1: efc76d3507bc2658f1c679f423e52f9bec865193
+SHA256: 7d0d4ea1bb0e8af28ff9b1b1972e42ac7131718394b9421cf2d3c3ab9023416a
+Section: Development
+Priority: optional
+Homepage: https://www.frida.re/
+Description: Inject JavaScript to explore iOS apps over USB.
+Author: Frida Developers <oleavr@nowsecure.com>
+Name: Frida-14.2.18
+
