@@ -647,39 +647,3 @@ Description: Observe and reprogram running programs.
 Author: Frida Developers <oleavr@nowsecure.com>
 Name: Frida
 
-Package: re.frida.server.repack
-Version: 14.2.18
-Architecture: iphoneos-arm
-Maintainer: Ole André Vadla Ravnås <oleavr@nowsecure.com>
-Installed-Size: 49764
-Conflicts: re.frida.server64
-Filename: ./debs/frida_14.2.18_iphoneos-arm_repack.deb
-Size: 12747004
-MD5sum: e266a7bdad922908df444e9896b35612
-SHA1: efc76d3507bc2658f1c679f423e52f9bec865193
-SHA256: 7d0d4ea1bb0e8af28ff9b1b1972e42ac7131718394b9421cf2d3c3ab9023416a
-Section: Development
-Priority: optional
-Homepage: https://www.frida.re/
-Description: Inject JavaScript to explore iOS apps over USB.
-Author: Frida Developers <oleavr@nowsecure.com>
-Name: Frida-14.2.18
-
-Package: re.frida.server64.repack
-Version: 14.2.18
-Architecture: iphoneos-arm64
-Maintainer: Ole André Vadla Ravnås <oleavr@nowsecure.com>
-Installed-Size: 49764
-Conflicts: re.frida.server64
-Filename: ./debs/frida_14.2.18_iphoneos-arm64_repack.deb
-Size: 12747852
-MD5sum: 4dd1eaa6e0fc763f0083faa9900cd7c9
-SHA1: e9b7e12d784c08c2cc8688938c7a17fa6c5b2849
-SHA256: c124600d0908739db3a31d9e89332d2543a1fb4230a3c90e704f4f08221326ae
-Section: Development
-Priority: optional
-Homepage: https://www.frida.re/
-Description: Inject JavaScript to explore iOS apps over USB.
-Author: Frida Developers <oleavr@nowsecure.com>
-Name: Frida64-14.2.18
-
