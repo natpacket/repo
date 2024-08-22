@@ -530,22 +530,6 @@ Author: natpacket
 Name: AwemeInfo
 
 Package: com.yourcompany.tweaka8key
-Version: 0.0.5-1+rootless
-Architecture: iphoneos-arm64
-Maintainer: natpacket
-Installed-Size: 1928
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.yourcompany.tweaka8key_0.0.5-1+rootless_iphoneos-arm64.deb
-Size: 698344
-MD5sum: 2621dae47d4787bfb0d0398cf3aff6ab
-SHA1: 131f462fa5da4e602da15e2eed8b8fd37082f5d5
-SHA256: 8ed333247d6bb9400c39b9127f2caec3081197c04574f1478f2353b3e9a3c651
-Section: Tweaks
-Description: An awesome MobileSubstrate tweak!(懂的都懂，防回撤,fix bug)
-Author: natpacket
-Name: tweaka8key
-
-Package: com.yourcompany.tweaka8key
 Version: 0.0.5-2+rootful
 Architecture: iphoneos-arm
 Maintainer: natpacket
@@ -664,4 +648,22 @@ Homepage: https://www.frida.re/
 Description: Inject JavaScript to explore iOS apps over USB.
 Author: Frida Developers <oleavr@nowsecure.com>
 Name: Frida-14.2.18
+
+Package: re.frida.server64.repack
+Version: 14.2.18
+Architecture: iphoneos-arm64
+Maintainer: Ole André Vadla Ravnås <oleavr@nowsecure.com>
+Installed-Size: 49764
+Conflicts: re.frida.server64
+Filename: ./debs/frida_14.2.18_iphoneos-arm64_repack.deb
+Size: 12747852
+MD5sum: 4dd1eaa6e0fc763f0083faa9900cd7c9
+SHA1: e9b7e12d784c08c2cc8688938c7a17fa6c5b2849
+SHA256: c124600d0908739db3a31d9e89332d2543a1fb4230a3c90e704f4f08221326ae
+Section: Development
+Priority: optional
+Homepage: https://www.frida.re/
+Description: Inject JavaScript to explore iOS apps over USB.
+Author: Frida Developers <oleavr@nowsecure.com>
+Name: Frida64-14.2.18
 
