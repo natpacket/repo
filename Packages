@@ -530,6 +530,22 @@ Author: natpacket
 Name: AwemeInfo
 
 Package: com.yourcompany.tweaka8key
+Version: 0.0.5-1+rootless
+Architecture: iphoneos-arm64
+Maintainer: natpacket
+Installed-Size: 1928
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.yourcompany.tweaka8key_0.0.5-1+rootless_iphoneos-arm64.deb
+Size: 698344
+MD5sum: 2621dae47d4787bfb0d0398cf3aff6ab
+SHA1: 131f462fa5da4e602da15e2eed8b8fd37082f5d5
+SHA256: 8ed333247d6bb9400c39b9127f2caec3081197c04574f1478f2353b3e9a3c651
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!(懂的都懂，防回撤,fix bug)
+Author: natpacket
+Name: tweaka8key
+
+Package: com.yourcompany.tweaka8key
 Version: 0.0.5-2+rootful
 Architecture: iphoneos-arm
 Maintainer: natpacket
