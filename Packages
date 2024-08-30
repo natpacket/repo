@@ -221,38 +221,6 @@ Description: getGoodsDetail、getProductDetail
 Author: natpacket
 Name: dyrpc
 
-Package: com.natpacket.dyrpc
-Version: 0.0.5-1+rootful
-Architecture: iphoneos-arm
-Maintainer: natpacket
-Installed-Size: 7272
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.natpacket.dyrpc_0.0.5-1+rootful_iphoneos-arm.deb
-Size: 2665178
-MD5sum: c42a1302a3facc8b5998a196cdba0ec4
-SHA1: 051e9f6752fff15bcdf77c70c366a3e11218178a
-SHA256: 83ccd94cf7f05f75ebf1365f7c26b55a393e2d96b7e99633dc7ec9bdd109da24
-Section: Tweaks
-Description: getGoodsDetail、getProductDetail (get\post)
-Author: natpacket
-Name: dyrpc
-
-Package: com.natpacket.dyrpc
-Version: 0.0.5-2+rootless
-Architecture: iphoneos-arm64
-Maintainer: natpacket
-Installed-Size: 7320
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.natpacket.dyrpc_0.0.5-2+rootless_iphoneos-arm64.deb
-Size: 2678218
-MD5sum: ea3ed294ae90ab073af30de87b001349
-SHA1: b477b785365d8280eca94194881adeaa4a081e2f
-SHA256: ab715bd60864d86517d35bfb660117247811af34c85d7068c99deb60e15f91bf
-Section: Tweaks
-Description: getGoodsDetail、getProductDetail (get\post)
-Author: natpacket
-Name: dyrpc
-
 Package: com.natpacket.frpc
 Version: 0.48.0
 Architecture: iphoneos-arm
