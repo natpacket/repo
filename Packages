@@ -14,16 +14,32 @@ Author: zxc
 Name: dypdis
 
 Package: com.gif.ksdemo
+Version: 0.0.1-1+rootful
+Architecture: iphoneos-arm
+Maintainer: susan
+Installed-Size: 288
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.gif.ksdemo_0.0.1-1+rootful_iphoneos-arm.deb
+Size: 15824
+MD5sum: 17db3c6b9ec8d49d35b54f613f2d60ab
+SHA1: 621d4b2e1d5e856f9f78cde8511ad5845ddb8d13
+SHA256: bc2a199e5f792b6ae3487a3959abef46127e829436a7f7d70ab074cfbb5f4f54
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: susan
+Name: ksDemo
+
+Package: com.gif.ksdemo
 Version: 0.0.1-1+rootless
 Architecture: iphoneos-arm64
 Maintainer: susan
-Installed-Size: 284
+Installed-Size: 288
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.gif.ksdemo_0.0.1-1+rootless_iphoneos-arm64.deb
-Size: 8598
-MD5sum: 8c7b65472f30dd75713ad58dc54b9d81
-SHA1: ff40a1acdf18d87341e9abe469cd24e604080568
-SHA256: 0f31be4d33b10216e5cddd35305c63bb9db5df06d387ce76b1e09252be393fb3
+Size: 15922
+MD5sum: a21f7c8fbf207140a632e17d8f5c349f
+SHA1: d6f27ad75e158c3034a37a36669b61764b6e434f
+SHA256: 27d6413350d491622e7789fb5d017ce8edf71ab65ab80a2ef527d24acef38de1
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: susan
