@@ -20,10 +20,10 @@ Maintainer: susan
 Installed-Size: 288
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.gif.ksdemo_0.0.1-1+rootful_iphoneos-arm.deb
-Size: 15824
-MD5sum: 17db3c6b9ec8d49d35b54f613f2d60ab
-SHA1: 621d4b2e1d5e856f9f78cde8511ad5845ddb8d13
-SHA256: bc2a199e5f792b6ae3487a3959abef46127e829436a7f7d70ab074cfbb5f4f54
+Size: 15954
+MD5sum: 270c4ae7e7886d28571380b41391e4b4
+SHA1: 2769a9494690cb253d72c052aaf22fbee60984d2
+SHA256: c8b804596844da863ed61b6d81f0d37297dccf78defcad9fbd51d8a3603fd9ed
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: susan
@@ -36,10 +36,10 @@ Maintainer: susan
 Installed-Size: 288
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.gif.ksdemo_0.0.1-1+rootless_iphoneos-arm64.deb
-Size: 15922
-MD5sum: a21f7c8fbf207140a632e17d8f5c349f
-SHA1: d6f27ad75e158c3034a37a36669b61764b6e434f
-SHA256: 27d6413350d491622e7789fb5d017ce8edf71ab65ab80a2ef527d24acef38de1
+Size: 16054
+MD5sum: df37586d4b78f7e4910d240a8bfb6964
+SHA1: 18cee44ad4172ce62774b27e13e4a4b32c824e89
+SHA256: fe7d845220f31afd657a513a8eb6191aca9c75f7ca6a7cb93f60a2c93662a9f9
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: susan
