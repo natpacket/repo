@@ -109,6 +109,22 @@ Description: 抖音、极速版抓包
 Author: natpacket
 Name: AwemeBypassProxy
 
+Package: com.natpacket.awemehttpresp
+Version: 0.0.1-1+rootless
+Architecture: iphoneos-arm64
+Maintainer: natpacket
+Installed-Size: 620
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.natpacket.awemehttpresp_0.0.1-1+rootless_iphoneos-arm64.deb
+Size: 148520
+MD5sum: 4cd8933399644e275e19b9c9e80d84e9
+SHA1: 4240a4006433929891778f0c44d1dbf9f1fe7495
+SHA256: 46314cf9ca14959fd4af6268d3cc8311d154f22a1ffcd8dbd1982720fa42cae9
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: natpacket
+Name: awemehttpresp
+
 Package: com.natpacket.dyrpc
 Version: 0.0.1-1+rootful
 Architecture: iphoneos-arm
