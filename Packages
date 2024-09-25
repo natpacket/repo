@@ -116,10 +116,10 @@ Maintainer: natpacket
 Installed-Size: 620
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.natpacket.awemehttpresp_0.0.1-1+rootless_iphoneos-arm64.deb
-Size: 148520
-MD5sum: 4cd8933399644e275e19b9c9e80d84e9
-SHA1: 4240a4006433929891778f0c44d1dbf9f1fe7495
-SHA256: 46314cf9ca14959fd4af6268d3cc8311d154f22a1ffcd8dbd1982720fa42cae9
+Size: 151156
+MD5sum: 17485edd4471ae118d2889171d14e10f
+SHA1: 7dc591a05e73a07025ffcf6beb83ed8208e05d40
+SHA256: 77c0128df97a0892e5b6c7be4cfc3d194d451053759056497d2b4e37a06a1231
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: natpacket
