@@ -125,6 +125,22 @@ Description: An awesome MobileSubstrate tweak!
 Author: natpacket
 Name: awemehttpresp
 
+Package: com.natpacket.awemehttpresp
+Version: 0.0.2-1+rootless
+Architecture: iphoneos-arm64
+Maintainer: natpacket
+Installed-Size: 636
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.natpacket.awemehttpresp_0.0.2-1+rootless_iphoneos-arm64.deb
+Size: 153356
+MD5sum: a0c53d1da3b8a61e229f62007bf4abd5
+SHA1: 648ecb0decb2e6323934b962b6ef0beb14d1c7ef
+SHA256: 81add4f24b0ccd6c980c5ac52170b61d639ff959a751af15d4d2942db0a407fe
+Section: Tweaks
+Description: 结果（全部）
+Author: natpacket
+Name: awemehttpresp
+
 Package: com.natpacket.dyrpc
 Version: 0.0.1-1+rootful
 Architecture: iphoneos-arm
