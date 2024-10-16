@@ -141,6 +141,22 @@ Description: 结果（全部）
 Author: natpacket
 Name: awemehttpresp
 
+Package: com.natpacket.awemehttpresp
+Version: 0.0.3-1+rootless
+Architecture: iphoneos-arm64
+Maintainer: natpacket
+Installed-Size: 652
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.natpacket.awemehttpresp_0.0.3-1+rootless_iphoneos-arm64.deb
+Size: 165126
+MD5sum: a7cd9c0a94a0d4e31227f5d53fdcad97
+SHA1: c813ffe2b564f4f1e34248b61c178e8fbb72b99f
+SHA256: 4f17be5ef35cac56ef0107733b02e412079eb9cb40277d31907b3e9a9a34db74
+Section: Tweaks
+Description: 过滤3规则
+Author: natpacket
+Name: awemehttpresp
+
 Package: com.natpacket.dyrpc
 Version: 0.0.1-1+rootful
 Architecture: iphoneos-arm
