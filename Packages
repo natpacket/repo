@@ -689,6 +689,44 @@ Description: An awesome MobileSubstrate tweak!(懂的都懂，防回撤,fix bug)
 Author: natpacket
 Name: tweaka8key
 
+Package: jp.dcsyhi.zetsu
+Version: 1.6.2
+Architecture: iphoneos-arm64
+Maintainer: Dcsyhi <dcsyhi1998@gmail.com>
+Installed-Size: 12005
+Depends: mobilesubstrate,firmware (>=15.0),preferenceloader,com.opa334.ccsupport
+Filename: ./debs/jp.dcsyhi.zetsu_1.6.2_iphoneos-arm64.deb
+Size: 10168604
+MD5sum: a6e68bfc9cdc664ca9a494a02b2572fd
+SHA1: 786e121b2395630ce3ed23e51e93370ed820b644
+SHA256: f2cac8022db8a5667d4c1fb5dccae1f8ded90fb1cf18255153b669fe3faf2232
+Section: Tweaks
+Description: Multitasking on iOS15 - iOS16.
+Tag: compatible_min::ios15.0
+Author: Dcsyhi <dcsyhi1998@gmail.com>
+Depiction: https://chariz.com/get/zetsu
+Icon: https://img.chariz.cloud/icon/zetsu/icon@3x.png
+Name: Zetsu
+
+Package: jp.dcsyhi.zetsu
+Version: 1.6.2
+Architecture: iphoneos-arm
+Maintainer: Dcsyhi <dcsyhi1998@gmail.com>
+Installed-Size: 11997
+Depends: mobilesubstrate,firmware (>=15.0),preferenceloader,com.opa334.ccsupport
+Filename: ./debs/jp.dcsyhi.zetsu_1.6.2_iphoneos-arm.deb
+Size: 10167620
+MD5sum: 20d8740955f1f856327ade4c31d9db2c
+SHA1: 380f3a45ae384b505736bc0794bdf3a4cc86c057
+SHA256: 0aea13e98126af376736447d316f5037c744b8abbc82a38b4c921d22687ff49c
+Section: Tweaks
+Description: Multitasking on iOS15 - iOS16.
+Tag: compatible_min::ios15.0
+Author: Dcsyhi <dcsyhi1998@gmail.com>
+Depiction: https://chariz.com/get/zetsu
+Icon: https://img.chariz.cloud/icon/zetsu/icon@3x.png
+Name: Zetsu
+
 Package: me.chichou.webinspect-global
 Version: 0.2.1-1
 Architecture: iphoneos-arm
