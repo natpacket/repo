@@ -407,10 +407,10 @@ Version: 0.0.1
 Architecture: iphoneos-arm
 Maintainer: natpacket
 Filename: ./debs/goproxyclient.deb
-Size: 2241952
-MD5sum: f09fdd6c0285d173b53d25c3b94ccd20
-SHA1: d27354e2fda8db15d516e4968480b096cbe561e0
-SHA256: ec1acb6138c68cdf0a5e77cecae91dcfb06332f9b6b5f2007fda2bdd07e78f3b
+Size: 2241468
+MD5sum: 432c9a0e1c0b4c8565b5b7ee1d3cb938
+SHA1: 6dad6c5f324d9a72c5669ad8b902020c49cc2c84
+SHA256: aa0b75e6e9b27f52c3791b9ae7e029d165c8b0341b6fa4e7369d03c524fafd27
 Section: Development
 Priority: optional
 Homepage: https://natpacket.github.io/repo
