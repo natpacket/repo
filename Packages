@@ -402,6 +402,22 @@ Description: frp的client端,需要在ios的ssh里面修改/var/frpc.ini,后需�
 Author: natpacket
 Name: frpc-nolib
 
+Package: com.natpacket.goproxyclient
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: natpacket
+Filename: ./debs/goproxyclient.deb
+Size: 2241984
+MD5sum: 26a7739c6b8977a5aebcb654525db9b6
+SHA1: 75c579d1298f167e4e475351875a370c5e4b5fd0
+SHA256: 2bc3ffb50348f8e61318dac9a4e1362e892cbf8fadbaf592d704f08ed5528ed2
+Section: Development
+Priority: optional
+Homepage: https://natpacket.github.io/repo
+Description: 手机代理客户端
+Author: natpacket
+Name: goproxyclient
+
 Package: com.natpacket.hookfinder
 Version: 0.0.1-1+rootful
 Architecture: iphoneos-arm
