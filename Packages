@@ -418,6 +418,22 @@ Description: 手机代理客户端
 Author: natpacket
 Name: goproxyclient
 
+Package: com.natpacket.goproxyclient
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: natpacket
+Filename: ./debs/goproxyclient-rootless.deb
+Size: 2241052
+MD5sum: 9273713be10e019bb53e8b075bac6a78
+SHA1: d7bc6194534038f248e71e93a7f5c56af46cb251
+SHA256: 11836d8e64432e63554299e66a2d284ed45f0bb2ff67c9668b46b5614d0aad92
+Section: Development
+Priority: optional
+Homepage: https://natpacket.github.io/repo
+Description: 手机代理客户端
+Author: natpacket
+Name: goproxyclient
+
 Package: com.natpacket.hookfinder
 Version: 0.0.1-1+rootful
 Architecture: iphoneos-arm
