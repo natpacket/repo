@@ -423,16 +423,16 @@ Version: 0.0.1
 Architecture: iphoneos-arm64
 Maintainer: natpacket
 Filename: ./debs/goproxyclient-rootless.deb
-Size: 2241588
-MD5sum: 166e886ac0140a2c4cf4a69e46105a85
-SHA1: 01182df3861cf916dcde44a5651b883885f7abce
-SHA256: b5d304e49b88dad66bbef6d418ef77ddbb9dd29c97d25dda7e9728e6db01cee1
+Size: 2241652
+MD5sum: 31a5b58fe755b95f65b703b9913abe79
+SHA1: e593693954e564def91245fdc16a87145b879215
+SHA256: 09f8ea6ab0e62de5ce3c1d4c39fd62aa50d0fdf12deacae6c39794c41adfae4c
 Section: Development
 Priority: optional
 Homepage: https://natpacket.github.io/repo
 Description: 手机代理客户端
 Author: natpacket
-Name: goproxyclient
+Name: goproxyclient-rooless
 
 Package: com.natpacket.hookfinder
 Version: 0.0.1-1+rootful
