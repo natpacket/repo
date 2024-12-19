@@ -404,13 +404,13 @@ Name: frpc-nolib
 
 Package: com.natpacket.goproxyclient
 Version: 0.0.1
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm64
 Maintainer: natpacket
-Filename: ./debs/goproxyclient.deb
-Size: 2241048
-MD5sum: d39d9c4138dd9111af5e94131c2401c8
-SHA1: a61f80449d397d11c677f1395580349c28f08de3
-SHA256: f83d498f415f04b228f6e35bbea638b8db8d02178c87abaac3c6ddcc0975d75a
+Filename: ./debs/goproxyclient-rootfull.deb
+Size: 2241052
+MD5sum: d994ba06bae5dac00b98ef6a06bf8487
+SHA1: 65cd2d3e29e07a5b5bf32f321ee6b5308d801007
+SHA256: 875c79e2ec46c975610ef56d0b893e259799508b355f34c082d74251b02d7b17
 Section: Development
 Priority: optional
 Homepage: https://natpacket.github.io/repo
@@ -423,10 +423,10 @@ Version: 0.0.1
 Architecture: iphoneos-arm64
 Maintainer: natpacket
 Filename: ./debs/goproxyclient-rootless.deb
-Size: 2241052
-MD5sum: 9273713be10e019bb53e8b075bac6a78
-SHA1: d7bc6194534038f248e71e93a7f5c56af46cb251
-SHA256: 11836d8e64432e63554299e66a2d284ed45f0bb2ff67c9668b46b5614d0aad92
+Size: 2241580
+MD5sum: 3f2bc6fb4b2be9fd5127478adb6a6bf8
+SHA1: be3a83b91f776e61210f88de6bdce171f7dfc693
+SHA256: fb5b93bd4ac8d6927862384f19bc14a7ce8d95b0b9e4da36c394af2a1351baf9
 Section: Development
 Priority: optional
 Homepage: https://natpacket.github.io/repo
