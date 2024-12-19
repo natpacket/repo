@@ -771,16 +771,16 @@ Author: natpacket
 Name: AwemeInfo
 
 Package: com.yourcompany.huyatweak
-Version: 0.0.1-18+rootless
+Version: 0.0.1-1+rootless
 Architecture: iphoneos-arm64
 Maintainer: QQQ
 Installed-Size: 600
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.yourcompany.huyatweak_0.0.1-18+rootless_iphoneos-arm64.deb
-Size: 96852
-MD5sum: b9e440da7b618c99ca106358cf3d0c3d
-SHA1: 8fb83caff4984218a80d5cb645a16126b9f43487
-SHA256: bf705c93fb4ae1cfbf2965be2a43f452709a562f77fbc117895ca8d5e43e7400
+Filename: ./debs/com.yourcompany.huyatweak_0.0.1-1+rootless_iphoneos-arm64.deb
+Size: 99582
+MD5sum: e9499de57f2126a4f17a3b30e062e52c
+SHA1: eda8ee646b4dc723f49e0b575ba13d510a4c4dbe
+SHA256: 666a10edba01566729b2428112185de81d3ab5579f8b42af6e68c3c27cc2a891
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: QQQ
