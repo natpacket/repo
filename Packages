@@ -441,9 +441,9 @@ Maintainer: natpacket
 Installed-Size: 8172
 Filename: ./debs/com.natpacket.goproxyclient_0.0.1-1+rootful_iphoneos-arm.deb
 Size: 2498086
-MD5sum: d9cab76936ef1bf9b8bdf89e22dd2076
-SHA1: d88e6b5c6a6c6ac341c10d72e55ed4bd943b4ffb
-SHA256: ca78bc89e823710c20e7ea097525312b507f3539ef54b4ed70556bad29233662
+MD5sum: da6dc33e9d082649c0bb02760c8d730b
+SHA1: 6b37fe4e502ee394e2b3d7e9f60d3d7161694337
+SHA256: ffd2c9e2d074a7f3c6f95f69f7f325d14e341706b5fc17e9e51b054877cf5dd2
 Section: System
 Description: 手机代理客户端
 Tag: role::hacker
@@ -456,10 +456,10 @@ Architecture: iphoneos-arm64
 Maintainer: natpacket
 Installed-Size: 8044
 Filename: ./debs/com.natpacket.goproxyclient_0.0.1-1+rootless_iphoneos-arm64.deb
-Size: 2497136
-MD5sum: 035a3c1270c84585e25398aa49656833
-SHA1: ad2682333f9eacfdeda422c4070c8ce01701132b
-SHA256: dd49238a2337420e0b510f08f0d6983f4979929a14f2c01103d3a28a4ca56e22
+Size: 2497144
+MD5sum: 9c0d305a84ab00dc70aa529e7a108d52
+SHA1: 3c9f35186a9f95d3bf5e683c9570fbdfbff2e0cf
+SHA256: 01e014c5f5c50dfcb3b2e51e8348f4ff7e3a8511a59e65f890e96e8d2668bdee
 Section: System
 Description: 手机代理客户端
 Tag: role::hacker
