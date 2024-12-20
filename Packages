@@ -434,38 +434,6 @@ Description: frp的client端,需要在ios的ssh里面修改/var/frpc.ini,后需�
 Author: natpacket
 Name: frpc-nolib
 
-Package: com.natpacket.goproxyclient
-Version: 0.0.1-1+rootful
-Architecture: iphoneos-arm
-Maintainer: natpacket
-Installed-Size: 8172
-Filename: ./debs/com.natpacket.goproxyclient_0.0.1-1+rootful_iphoneos-arm.deb
-Size: 2498022
-MD5sum: e99d85f582ca4eb5d7e8e2fbe43bef5d
-SHA1: d3add7e191a27740932a888dea456b11b78e7107
-SHA256: 5bfa5ac01e6e6c12920ae3db046e9960b6e6eb2ae60d7a22554c03a76e45b78a
-Section: System
-Description: 手机代理客户端
-Tag: role::hacker
-Author: natpacket
-Name: goproxyclient
-
-Package: com.natpacket.goproxyclient
-Version: 0.0.1-1+rootless
-Architecture: iphoneos-arm64
-Maintainer: natpacket
-Installed-Size: 8044
-Filename: ./debs/com.natpacket.goproxyclient_0.0.1-1+rootless_iphoneos-arm64.deb
-Size: 2497066
-MD5sum: 665aa5c21fccb7786e9278e5a8e0f2f5
-SHA1: 1ac39f6d576fac105dd44bed293465962d73e95a
-SHA256: 2d864f320a83cf7bfd28d9fa4fb21b15f6ba22729a9f0f5c8f114cd5ba1b8d9a
-Section: System
-Description: 手机代理客户端
-Tag: role::hacker
-Author: natpacket
-Name: goproxyclient
-
 Package: com.natpacket.hookfinder
 Version: 0.0.1-1+rootful
 Architecture: iphoneos-arm
