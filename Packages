@@ -222,6 +222,38 @@ Description: 过滤4规则(额外商详、两订单);换成异步请求
 Author: natpacket
 Name: awemehttpresp
 
+Package: com.natpacket.devicetool
+Version: 0.0.1-1+rootful
+Architecture: iphoneos-arm
+Maintainer: natpacket
+Installed-Size: 1444
+Filename: ./debs/com.natpacket.devicetool_0.0.1-1+rootful_iphoneos-arm.deb
+Size: 327750
+MD5sum: 1f61a516ee3fb04ce21e0475e107a56f
+SHA1: 342be2eaebfd3ee86b2abe117343d855f023bfe3
+SHA256: e069e96547983270ebf2325c60782e9a7a983148e0ebb919e8ac7a499fb31350
+Section: System
+Description: 获取真实设备、控制飞行模式
+Tag: role::hacker
+Author: natpacket
+Name: devicetool
+
+Package: com.natpacket.devicetool
+Version: 0.0.1-1+rootless
+Architecture: iphoneos-arm64
+Maintainer: natpacket
+Installed-Size: 756
+Filename: ./debs/com.natpacket.devicetool_0.0.1-1+rootless_iphoneos-arm64.deb
+Size: 150824
+MD5sum: be1dc81a2d1685e5ba23346254e7d8fe
+SHA1: 349772f44f98b6d7d95c2e2d922a9ad3f1bc1801
+SHA256: 0123c25fece4615fb603d0c991344aa4c28ff9a835e67bbb0c35bb17d7ad9c90
+Section: System
+Description: 获取真实设备、控制飞行模式
+Tag: role::hacker
+Author: natpacket
+Name: devicetool
+
 Package: com.natpacket.dyrpc
 Version: 0.0.1-1+rootful
 Architecture: iphoneos-arm
