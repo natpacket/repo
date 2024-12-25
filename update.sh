@@ -15,10 +15,12 @@ zstd -c19 Packages > Packages.zst
 # xargs -I {}: 将过滤后的文件路径逐个传递给 scp 命令。
 
 #先scp没有add的debs 
-git status --porcelain | awk '/^\?\?|^ M/ && $2 ~ /\.deb$/ {print $2}' | xargs -I {} echo scp {} root@120.55.82.61:/root/repo/debs
+# git status --porcelain | awk '/^\?\?|^ M/ && $2 ~ /\.deb$/ {print $2}' | xargs -I {} echo scp {} root@120.55.82.61:/root/repo/debs
+git status --porcelain | awk '/^\?\?|^ M/ && $2 ~ /\.deb$/ {print $2}' | xargs -I {} scp {} root@120.55.82.61:/root/repo/debs
 # git status --porcelain | awk '/^\?\?/ {print $2}' | xargs -I {} scp {} root@120.55.82.61:/root/repo/debs
 #再scp repo的源信息
-git status --porcelain | awk '/^\?\?|^ M/ && $2 !~ /\.deb$/ {print $2}' | xargs -I {} echo scp {} root@120.55.82.61:/root/repo/
+# git status --porcelain | awk '/^\?\?|^ M/ && $2 ~ /\.deb$/ {print $2}' | xargs -I {} echo scp {} root@120.55.82.61:/root/repo/debs
+git status --porcelain | awk '/^\?\?|^ M/ && $2 !~ /\.deb$/ {print $2}' | xargs -I {} scp {} root@120.55.82.61:/root/repo/
 # git status --porcelain | awk '/^ M/ {print $2}' | xargs -I {} scp {} root@120.55.82.61:/root/repo/
 
 git add . && git commit -m "提交更新" && git push
