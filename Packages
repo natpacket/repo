@@ -898,6 +898,38 @@ Description: An awesome MobileSubstrate tweak!
 Author: QQQ
 Name: HuYaTweak
 
+Package: com.yourcompany.pxxcookie
+Version: 0.0.1-1+rootless
+Architecture: iphoneos-arm64
+Maintainer: 黑子
+Installed-Size: 292
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.yourcompany.pxxcookie_0.0.1-1+rootless_iphoneos-arm64.deb
+Size: 18482
+MD5sum: 60da469279e8111e1a7182d8333923ed
+SHA1: 5826e6663307cc878f6e271917b8039a3a2363bb
+SHA256: 5f7717c2ee2f9805600e8f8d850a7b30600dd143339957b9c2f8fe285ae118f7
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: 黑子
+Name: PxxCookie
+
+Package: com.yourcompany.pxxcookie
+Version: 0.0.1-2+rootful
+Architecture: iphoneos-arm
+Maintainer: 黑子
+Installed-Size: 292
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.yourcompany.pxxcookie_0.0.1-2+rootful_iphoneos-arm.deb
+Size: 18392
+MD5sum: 00e5bc72ff0a08f8df62f5d6e83575b6
+SHA1: 2d2d1416819b815f01dad5b57cbbc68029c1934e
+SHA256: 4d5c80c7a237103cec2a310a88cd6a163b4df5c899cea01443eb697d8589ce98
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: 黑子
+Name: PxxCookie
+
 Package: com.yourcompany.tweaka8key
 Version: 0.0.5-1+rootless
 Architecture: iphoneos-arm64
