@@ -962,6 +962,22 @@ Description: An awesome MobileSubstrate tweak!
 Author: 黑子
 Name: PxxCookie
 
+Package: com.yourcompany.ttrpc
+Version: 0.0.7-1+rootless
+Architecture: iphoneos-arm64
+Maintainer: natpacket
+Installed-Size: 5160
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.yourcompany.ttrpc_0.0.7-1+rootless_iphoneos-arm64.deb
+Size: 1644524
+MD5sum: 82f7127f0e42ffdef995a863f313e710
+SHA1: bae9325332b628240b644b020c6564a703975734
+SHA256: 4a6a2c968b78f351cd045a1625d2754674577e49b56f78a9b1fe8a83b04bc46c
+Section: Tweaks
+Description: 头条、番茄小说、番茄畅听、番茄音乐版、西瓜视频、悟空浏览器(get post)
+Author: natpacket
+Name: ttrpc
+
 Package: com.yourcompany.tweaka8key
 Version: 0.0.5-1+rootless
 Architecture: iphoneos-arm64
