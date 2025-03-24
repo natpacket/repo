@@ -978,6 +978,22 @@ Description: 头条、番茄小说、番茄畅听、番茄音乐版、西瓜视�
 Author: natpacket
 Name: ttrpc
 
+Package: com.yourcompany.ttrpc
+Version: 0.0.7-2+rootful
+Architecture: iphoneos-arm
+Maintainer: natpacket
+Installed-Size: 9176
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.yourcompany.ttrpc_0.0.7-2+rootful_iphoneos-arm.deb
+Size: 3431072
+MD5sum: 1a9aff7e3353edf709c6dc4fb6105cbb
+SHA1: e92a31ef5544889609cd9ca6d83641b08bb79efc
+SHA256: cbefe390639145f859a65459a91266bb3801034d93b5b70ffd0c784e0405933c
+Section: Tweaks
+Description: 头条、番茄小说、番茄畅听、番茄音乐版、西瓜视频、悟空浏览器(get post)
+Author: natpacket
+Name: ttrpc
+
 Package: com.yourcompany.tweaka8key
 Version: 0.0.5-1+rootless
 Architecture: iphoneos-arm64
