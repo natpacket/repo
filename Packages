@@ -914,6 +914,22 @@ Description: 视频号websocket客户端，基于SocketRocket!（强制重连，
 Author: natpacket
 Name: wechattweak
 
+Package: com.natpacket.xhsrpc
+Version: 0.0.1-1+rootless
+Architecture: iphoneos-arm64
+Maintainer: natpacket
+Installed-Size: 7080
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.natpacket.xhsrpc_0.0.1-1+rootless_iphoneos-arm64.deb
+Size: 2569930
+MD5sum: 003cd38626a29c15a579503c7a1959fb
+SHA1: 095c5aebd915d376285010cf1f4a0b1fddece995
+SHA256: 958820ed23bb0c7f21af63f87202b70cba99995f6fd2adf73e03e7442f3f6d46
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: natpacket
+Name: xhsrpc
+
 Package: com.yourcompany.awemeinfo
 Version: 0.0.1-1+rootful
 Architecture: iphoneos-arm
