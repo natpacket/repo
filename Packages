@@ -915,18 +915,34 @@ Author: natpacket
 Name: wechattweak
 
 Package: com.natpacket.xhsrpc
-Version: 0.0.1-1+rootless
+Version: 0.0.2-1+rootful
+Architecture: iphoneos-arm
+Maintainer: natpacket
+Installed-Size: 7128
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.natpacket.xhsrpc_0.0.2-1+rootful_iphoneos-arm.deb
+Size: 2600336
+MD5sum: 536fc7445acbff8aad899bd95e6ab2f1
+SHA1: 57673d790f7a909140cc93df332d527f68daa6f5
+SHA256: 48c49b056057de11fc7308aa6bdc91459747256bff758b0358c656511afa7182
+Section: Tweaks
+Description: 评论、详情
+Author: natpacket
+Name: xhsrpc
+
+Package: com.natpacket.xhsrpc
+Version: 0.0.2-1+rootless
 Architecture: iphoneos-arm64
 Maintainer: natpacket
-Installed-Size: 7080
+Installed-Size: 7128
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.natpacket.xhsrpc_0.0.1-1+rootless_iphoneos-arm64.deb
-Size: 2569930
-MD5sum: 003cd38626a29c15a579503c7a1959fb
-SHA1: 095c5aebd915d376285010cf1f4a0b1fddece995
-SHA256: 958820ed23bb0c7f21af63f87202b70cba99995f6fd2adf73e03e7442f3f6d46
+Filename: ./debs/com.natpacket.xhsrpc_0.0.2-1+rootless_iphoneos-arm64.deb
+Size: 2583396
+MD5sum: 5bbb7baaa21f160f1f697acc61ffae82
+SHA1: 5546f05f13aee004f5ce83cafb6e520bec792b8f
+SHA256: 436329f241ea45d36c89f55dfac75ebaaaabdec9b1520468e0f1dd01002505b6
 Section: Tweaks
-Description: An awesome MobileSubstrate tweak!
+Description: 评论、详情
 Author: natpacket
 Name: xhsrpc
 
