@@ -1010,6 +1010,38 @@ Description: 评论、详情;添加请求;添加返回headers
 Author: natpacket
 Name: xhsrpc
 
+Package: com.natpacket.xhsrpc
+Version: 0.0.7-1+rootful
+Architecture: iphoneos-arm
+Maintainer: natpacket
+Installed-Size: 7224
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.natpacket.xhsrpc_0.0.7-1+rootful_iphoneos-arm.deb
+Size: 2618622
+MD5sum: 7e00491b09d50d5a1800e76059f99d58
+SHA1: f805e732fdb59d469ed5425a6e328ef972d507e0
+SHA256: 9a8d37688baf37d77a9f598fd806d17db0c6c3d2feb4f56b0df8dd25376443c3
+Section: Tweaks
+Description: 评论、详情;添加请求;添加返回headers
+Author: natpacket
+Name: xhsrpc
+
+Package: com.natpacket.xhsrpc
+Version: 0.0.7-1+rootless
+Architecture: iphoneos-arm64
+Maintainer: natpacket
+Installed-Size: 7288
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.natpacket.xhsrpc_0.0.7-1+rootless_iphoneos-arm64.deb
+Size: 2647618
+MD5sum: 71065f73e3c66839391a332fbd639ac8
+SHA1: a8e0e13c30c20c819ae3afe14522a42db426402f
+SHA256: f3b90cccedfb58f11d6de4f0f78330eddcdb391d8900d9b68b4fc5278ccf3d5c
+Section: Tweaks
+Description: 评论、详情;添加请求;添加返回headers
+Author: natpacket
+Name: xhsrpc
+
 Package: com.yourcompany.awemeinfo
 Version: 0.0.1-1+rootful
 Architecture: iphoneos-arm
