@@ -914,6 +914,38 @@ Description: 视频号websocket客户端，基于SocketRocket!（强制重连，
 Author: natpacket
 Name: wechattweak
 
+Package: com.natpacket.xhsinfo
+Version: 0.0.1-1+rootful
+Architecture: iphoneos-arm
+Maintainer: natpacket
+Installed-Size: 684
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.natpacket.xhsinfo_0.0.1-1+rootful_iphoneos-arm.deb
+Size: 144448
+MD5sum: d3b614c389f2386b15400beafe92744d
+SHA1: 8ab0a47d361f8906c215400bc650256a1b666ddf
+SHA256: e5dd81005c24b03f305c7558e8718a573fcf54a2e3897b94e0ceb43b25cf4f2f
+Section: Tweaks
+Description: 上传信息
+Author: natpacket
+Name: xhsinfo
+
+Package: com.natpacket.xhsinfo
+Version: 0.0.1-1+rootless
+Architecture: iphoneos-arm64
+Maintainer: natpacket
+Installed-Size: 684
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.natpacket.xhsinfo_0.0.1-1+rootless_iphoneos-arm64.deb
+Size: 144536
+MD5sum: daaa15adb88c9887b54aaf1a7f0283d3
+SHA1: 04aa6770ca27517fa086ea79a20a2245b3a4a8f5
+SHA256: 1f90ea34ca4500c4b0e334e228a5068aff2b4bc1b95969a72e65db26c994d9e8
+Section: Tweaks
+Description: 上传信息
+Author: natpacket
+Name: xhsinfo
+
 Package: com.natpacket.xhsrpc
 Version: 0.0.2-1+rootful
 Architecture: iphoneos-arm
