@@ -562,6 +562,38 @@ Description: An awesome MobileSubstrate tweak!
 Author: natpacket
 Name: ksdid
 
+Package: com.natpacket.ksrpc
+Version: 0.0.2-1+rootful
+Architecture: iphoneos-arm
+Maintainer: natpacket
+Installed-Size: 6952
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.natpacket.ksrpc_0.0.2-1+rootful_iphoneos-arm.deb
+Size: 2530512
+MD5sum: f630496d5617a8260cb6254bc9316e4b
+SHA1: 0c2bfe698df2c61d25a6c9fd5c649b450c777a54
+SHA256: 2360fea86c4520212427ecea3b6b9b04a4cf33af1d75b225fc363799e7c0154b
+Section: Tweaks
+Description: 搜索、小黄车
+Author: natpacket
+Name: ksrpc
+
+Package: com.natpacket.ksrpc
+Version: 0.0.2-1+rootless
+Architecture: iphoneos-arm64
+Maintainer: natpacket
+Installed-Size: 6936
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.natpacket.ksrpc_0.0.2-1+rootless_iphoneos-arm64.deb
+Size: 2529402
+MD5sum: 765faf1c5a3b97847afc2e4460011f7f
+SHA1: 8acc8884a8fb60061af7e281b60563bb123d6840
+SHA256: 41bc8025af82e84739d817e740879df611061438aeec0d508e92829860573860
+Section: Tweaks
+Description: 搜索、小黄车
+Author: natpacket
+Name: ksrpc
+
 Package: com.natpacket.wechatipad
 Version: 0.0.1-1+rootful
 Architecture: iphoneos-arm
