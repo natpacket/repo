@@ -1011,6 +1011,22 @@ Author: natpacket
 Name: xhsrpc
 
 Package: com.natpacket.xhsrpc
+Version: 0.0.12-1+rootless
+Architecture: iphoneos-arm64
+Maintainer: natpacket
+Installed-Size: 7532
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.natpacket.xhsrpc_0.0.12-1+rootless_iphoneos-arm64.deb
+Size: 2739172
+MD5sum: 8f61c6908c837370b7e1f8deb751030e
+SHA1: ee578d0b9b055bfddda780093a439988cc35295e
+SHA256: 38a973da51f56f8f056742c532c13eee42beb6696754c6056567fede24f8a92b
+Section: Tweaks
+Description: 评论、详情(跳转详情);添加请求;添加返回headers;屏蔽简单root检测;
+Author: natpacket
+Name: xhsrpc
+
+Package: com.natpacket.xhsrpc
 Version: 0.0.2-1+rootful
 Architecture: iphoneos-arm
 Maintainer: natpacket
