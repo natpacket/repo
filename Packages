@@ -978,6 +978,22 @@ Description: 上传信息;混淆
 Author: natpacket
 Name: xhsinfo
 
+Package: com.natpacket.xhsinfo
+Version: 0.0.4-1+rootless
+Architecture: iphoneos-arm64
+Maintainer: natpacket
+Installed-Size: 11536
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.natpacket.xhsinfo_0.0.4-1+rootless_iphoneos-arm64.deb
+Size: 4086816
+MD5sum: ad9d580fb2308f970759648ffcd1f499
+SHA1: 408e1dd10bc5f513eaef1254f7f0ac89740bd4a1
+SHA256: 8ac625c7bab1747f921972f5e5ba7d0c1c5c4337e7b606f48d843d6a165185a8
+Section: Tweaks
+Description: 上传信息;混淆;
+Author: natpacket
+Name: xhsinfo
+
 Package: com.natpacket.xhsrpc
 Version: 0.0.10-1+rootless
 Architecture: iphoneos-arm64
