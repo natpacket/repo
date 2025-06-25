@@ -430,6 +430,22 @@ Description: getGoodsDetail、getProductDetail、shopSearch(新增js post get方
 Author: natpacket
 Name: dyrpc
 
+Package: com.natpacket.finderhelper
+Version: 0.0.1-1+rootless
+Architecture: iphoneos-arm64
+Maintainer: natpacket
+Installed-Size: 928
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.natpacket.finderhelper_0.0.1-1+rootless_iphoneos-arm64.deb
+Size: 257792
+MD5sum: 26946cf6fea858d169b8b709fa8eb3b6
+SHA1: b4834a2f67b86faa008e8618bb49232d4394547a
+SHA256: f7ba5d0fce37b2b73e7f84aa9a3169d22f47bbf06911172c99c4014cbae3df55
+Section: Tweaks
+Description: finder扩号
+Author: natpacket
+Name: finderhelper
+
 Package: com.natpacket.frpc
 Version: 0.48.0
 Architecture: iphoneos-arm
